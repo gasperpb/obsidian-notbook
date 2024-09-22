@@ -1,0 +1,2 @@
+ pela foto no celular
+ 
