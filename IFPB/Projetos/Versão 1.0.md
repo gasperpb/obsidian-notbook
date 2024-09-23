@@ -4,10 +4,14 @@
 	- Aproximadamente 2.060 resultados 
 	- Filtro por 
 
-- [ ] Cafe
+- [x] Cafe:
 	- AND 0 resultados 
-	- Avaliação da tecnologia biomédica 18 Re
-
+	- Avaliação da tecnologia biomédica,18 Resultados
+	- Prestação de cuidados de saúde, 996 Resultados
+	- Registros Médicos Eletrônicos, 78 Resultados
+- [ ] ScienceDirect:
+	- Prestação de cuidados de saúde, 114 Resultados
+	- 
 ### **Principais Métodos de Desenvolvimento**
 
 1. [**Design Centrado no Usuário**: Foca nas necessidades e experiências dos usuários finais, garantindo que o software seja intuitivo e fácil de usar](https://www.scielo.br/j/tce/a/M3ZvQ3YrvbBb4p7n749JwLv/)[1](https://www.scielo.br/j/tce/a/M3ZvQ3YrvbBb4p7n749JwLv/).
