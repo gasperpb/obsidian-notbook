@@ -9,9 +9,12 @@
 	- Avaliação da tecnologia biomédica,18 Resultados
 	- Prestação de cuidados de saúde, 996 Resultados
 	- Registros Médicos Eletrônicos, 78 Resultados
-- [ ] ScienceDirect:
+- [x] ScienceDirect:
 	- Prestação de cuidados de saúde, 114 Resultados
-	- 
+	- Avaliação da tecnologia biomédica, 31 Resultados
+	-  Registros Médicos Eletrônicos, 75 Resultados
+- [ ] 
+
 ### **Principais Métodos de Desenvolvimento**
 
 1. [**Design Centrado no Usuário**: Foca nas necessidades e experiências dos usuários finais, garantindo que o software seja intuitivo e fácil de usar](https://www.scielo.br/j/tce/a/M3ZvQ3YrvbBb4p7n749JwLv/)[1](https://www.scielo.br/j/tce/a/M3ZvQ3YrvbBb4p7n749JwLv/).
