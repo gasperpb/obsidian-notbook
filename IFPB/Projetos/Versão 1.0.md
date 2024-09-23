@@ -13,8 +13,10 @@
 	- Prestação de cuidados de saúde, 114 Resultados
 	- Avaliação da tecnologia biomédica, 31 Resultados
 	-  Registros Médicos Eletrônicos, 75 Resultados
-- [ ] 
-
+- [ ] Google
+	- Prestação de cuidados de saúde, 229.000 Resultados
+	- Avaliação da tecnologia biomédica, 44.000 Resultados
+	-   Registros Médicos Eletrônicos, 53.400 Resultados
 ### **Principais Métodos de Desenvolvimento**
 
 1. [**Design Centrado no Usuário**: Foca nas necessidades e experiências dos usuários finais, garantindo que o software seja intuitivo e fácil de usar](https://www.scielo.br/j/tce/a/M3ZvQ3YrvbBb4p7n749JwLv/)[1](https://www.scielo.br/j/tce/a/M3ZvQ3YrvbBb4p7n749JwLv/).
