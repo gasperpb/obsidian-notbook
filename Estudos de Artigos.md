@@ -1,5 +1,6 @@
 # Primeiro amolar o machado.
 
+
 ## TDAH porque não absorvo o que estudo.
 
 https://youtu.be/B8Xo6xR6dqQ
