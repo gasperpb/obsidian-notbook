@@ -13,7 +13,7 @@
 	- Prestação de cuidados de saúde, 114 Resultados
 	- Avaliação da tecnologia biomédica, 31 Resultados
 	-  Registros Médicos Eletrônicos, 75 Resultados
-- [ ] Google
+- [x] Google
 	- Prestação de cuidados de saúde, 229.000 Resultados
 	- Avaliação da tecnologia biomédica, 44.000 Resultados
 	-   Registros Médicos Eletrônicos, 53.400 Resultados
