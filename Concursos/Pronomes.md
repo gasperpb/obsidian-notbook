@@ -1,4 +1,4 @@
-#pronomes
+[[Pronomes]]
 
 "Os **meus** dois gatos pretos comeram uma quantidade considerável de ração, porém **eles** já estão famintos novamente. Eita!"
 
