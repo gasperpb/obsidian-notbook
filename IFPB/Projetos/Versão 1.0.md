@@ -2,6 +2,7 @@
 
 - [x] Avaliação da tecnologia biomédica AND Prestação de cuidados de saúde  OR Aplicações de Saúde AND Registros Médicos Eletrônicos
 	- Aproximadamente 2.060 resultados 
+	- Filtro por 
 
 
 
@@ -25,7 +26,7 @@ A arquitetura de software é crucial para garantir a qualidade dos sistemas de s
 
 O mercado de healthtech está crescendo rapidamente, com investimentos significativos em novas tecnologias. [Espera-se que o setor continue a evoluir, trazendo inovações como inteligência artificial e análise de dados para melhorar ainda mais os cuidados de saúde](https://books-sol.sbc.org.br/index.php/sbc/catalog/download/47/210/431?inline=1)[2](https://books-sol.sbc.org.br/index.php/sbc/catalog/download/47/210/431?inline=1).
 
-### As aplicações são fáceis porem sem assessoria torna uma ação simples em complexa.
+### As aplicações são fáceis porem sem assessoria se torna uma ação simples em complexa.
 - Exemplo: custo do sonar fetal simples sem marcado e o eletrônico.
 - ![[images.jpg]]![[download.jpg]]
 
