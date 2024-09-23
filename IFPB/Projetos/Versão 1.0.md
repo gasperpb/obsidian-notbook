@@ -4,7 +4,9 @@
 	- Aproximadamente 2.060 resultados 
 	- Filtro por 
 
-
+- [ ] Cafe
+	- AND 0 resultados 
+	- Avaliação da tecnologia biomédica 18 Re
 
 ### **Principais Métodos de Desenvolvimento**
 
