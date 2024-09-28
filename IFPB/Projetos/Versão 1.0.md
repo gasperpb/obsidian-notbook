@@ -1,7 +1,6 @@
 ## Pesquisa no google acadêmico
 
 - [x] Avaliação da tecnologia biomédica AND Prestação de cuidados de saúde  OR Aplicações de Saúde AND Registros Médicos Eletrônicos
-	- Aproximadamente 2.060 resultados 
 	- Filtro por 
 
 - [x] Cafe:
@@ -42,6 +41,41 @@ O mercado de healthtech está crescendo rapidamente, com investimentos significa
 ### As aplicações são fáceis porem sem assessoria se torna uma ação simples em complexa.
 - Exemplo: custo do sonar fetal simples sem marcado e o eletrônico.
 - ![[images.jpg]]![[download.jpg]]
+
+
+## Filtros 
+### Google Acadêmico
+
+1. **Avaliação da tecnologia biomédica AND Prestação de cuidados de saúde**
+    
+    - **Filtro por:** Ano de publicação, Tipo de documento (artigos, teses, etc.), Idioma, Autor
+2. **Aplicações de Saúde AND Registros Médicos Eletrônicos**
+    
+    - **Filtro por:** Ano de publicação, Tipo de documento, Idioma, Autor
+
+### Cafe
+
+1. **Avaliação da tecnologia biomédica**
+    
+    - **Filtro por:** Ano de publicação, Tipo de documento, Idioma, Autor
+2. **Prestação de cuidados de saúde**
+    
+    - **Filtro por:** Ano de publicação, Tipo de documento, Idioma, Autor
+3. **Registros Médicos Eletrônicos**
+    
+    - **Filtro por:** Ano de publicação, Tipo de documento, Idioma, Autor
+
+### ScienceDirect
+
+1. **Prestação de cuidados de saúde**
+    
+    - **Filtro por:** Ano de publicação, Tipo de documento, Idioma, Autor
+2. **Avaliação da tecnologia biomédica**
+    
+    - **Filtro por:** Ano de publicação, Tipo de documento, Idioma, Autor
+3. **Registros Médicos Eletrônicos**
+    
+    - **Filtro por:** Ano de publicação, Tipo de documento, Idioma, Autor
 
 
 
