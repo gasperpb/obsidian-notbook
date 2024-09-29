@@ -1,0 +1,1 @@
+[v. 23 n. 12 (2023): Revista Eletrônica Acervo Saúde (ISSN 2178-2091) | Volume 23 (12) | 2023 | Revista Eletrônica Acervo Saúde (acervomais.com.br)](https://acervomais.com.br/index.php/saude/issue/view/321)

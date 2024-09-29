@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"0098fabc02ff38a1","x":-1300,"y":-340,"width":350,"height":60,"type":"text","text":"- a significação das palavras no texto\n- Interpretação de texto"},
+		{"id":"6dbf47cfd009d33a","x":-990,"y":-736,"width":250,"height":60,"type":"text","text":"- estrutura e formação das palavras\n- classes de palavras"},
+		{"id":"d1feb753c986e7b7","x":-990,"y":-616,"width":300,"height":228,"type":"text","text":"- termos da oração\n- período composto\n- conceito e classificação das orações\n- concordância verbal e nominal\n- regência verbal e nominal\n- crase e pontuação"},
+		{"id":"5f0f3e9fe7f04d0e","x":-1315,"y":-1080,"width":250,"height":60,"color":"#5e62e4","type":"text","text":"**MÉDIO- Fonologia:**"},
+		{"id":"7ef13a231434a3e3","x":-950,"y":-1050,"width":340,"height":200,"color":"#95b12f","type":"text","text":"- conceito\n- encontros vocálicos\n- dígrafos\n- ortoépica\n- divisão silábica\n- prosódia-acentuação e ortografia"},
+		{"id":"4ac20cb0773db0ff","x":-1500,"y":-554,"width":120,"height":52,"type":"text","text":"Semântica:"},
+		{"id":"56c6ed9f584c8cca","x":-1380,"y":-706,"width":250,"height":60,"type":"text","text":"**Sintaxe:**"},
+		{"id":"df87e054c14a3c9b","x":-1315,"y":-850,"width":130,"height":50,"type":"text","text":"Morfologia:"},
+		{"id":"f359f97921f9bfc9","x":-1800,"y":-1020,"width":200,"height":60,"color":"4","type":"text","text":"LÍNGUA PORTUGUESA"}
+	],
+	"edges":[
+		{"id":"a772a676ff0288a7","fromNode":"f359f97921f9bfc9","fromSide":"right","toNode":"5f0f3e9fe7f04d0e","toSide":"left","color":"#3351c7"},
+		{"id":"5bd78d8f32da519b","fromNode":"5f0f3e9fe7f04d0e","fromSide":"right","toNode":"7ef13a231434a3e3","toSide":"top"},
+		{"id":"86747dfb00002f44","fromNode":"df87e054c14a3c9b","fromSide":"right","toNode":"6dbf47cfd009d33a","toSide":"left"},
+		{"id":"b7d23518f40bbc2c","fromNode":"4ac20cb0773db0ff","fromSide":"right","toNode":"0098fabc02ff38a1","toSide":"left"},
+		{"id":"9755ea1e234006db","fromNode":"f359f97921f9bfc9","fromSide":"right","toNode":"4ac20cb0773db0ff","toSide":"left","color":"5"},
+		{"id":"919384c0301efab7","fromNode":"f359f97921f9bfc9","fromSide":"right","toNode":"56c6ed9f584c8cca","toSide":"left","color":"3"},
+		{"id":"5353c5c19ccddd7b","fromNode":"f359f97921f9bfc9","fromSide":"right","toNode":"df87e054c14a3c9b","toSide":"left","color":"6"},
+		{"id":"b4ad86ff5cf28212","fromNode":"56c6ed9f584c8cca","fromSide":"right","toNode":"d1feb753c986e7b7","toSide":"left"}
+	]
+}
