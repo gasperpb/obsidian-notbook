@@ -179,3 +179,4 @@ O aumento da qualidade de vida da população e a queda na mortalidade nas últi
 26. ZHANG A e LIN X. Towards Secure and Privacy-Preserving Data Sharing in e-Health Systems via Consortium Blockchain. Journal of Medical Systems. 2018;42(8).  
   
 27. ZHANG G, et al. Blockchain-based privacy preserving e-health system for healthcare data in cloud. Computer Networks. 2021 Nov;10858
+28.
