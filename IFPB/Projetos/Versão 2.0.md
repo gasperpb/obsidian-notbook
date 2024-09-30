@@ -52,18 +52,19 @@ Para estabelecer uma busca usando os operadores lógicos **AND** e **NOT**  em d
 
 Aqui estão os resultados da busca nas diferentes bases de dados:
 
-| Base de Dados       | Termo de Busca                                                 | Número de Resultados |
-|---------------------|----------------------------------------------------------------|----------------------|
-| Google Acadêmico    | Avaliação da tecnologia biomédica AND Prestação de cuidados de saúde | 14.400               |
-| Google Acadêmico    | Aplicações de Saúde AND Registros Médicos Eletrônicos           | 24.400               |
-| Google Acadêmico    | Avaliação da tecnologia biomédica AND Prestação de cuidados de saúde AND Aplicações de Saúde AND Registros Médicos Eletrônicos | 234                  |
-| Periódicos CAFE     | Avaliação da tecnologia biomédica                               | 18                   |
-| Periódicos CAFE     | Prestação de cuidados de saúde                                 | 996                  |
-| Periódicos CAFE     | Registros Médicos Eletrônicos                                  | 78                   |
-| ScienceDirect       | Prestação de cuidados de saúde                                 | 114                  |
-| ScienceDirect       | Avaliação da tecnologia biomédica                               | 31                   |
-| ScienceDirect       | Registros Médicos Eletrônicos                                  | 75                   |
-
+| Base de Dados    | Termo de Busca                                                                                                                 | Número de Resultados |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------- |
+| Google Acadêmico | Avaliação da tecnologia biomédica AND Prestação de cuidados de saúde                                                           | 14.400               |
+| Google Acadêmico | Aplicações de Saúde AND Registros Médicos Eletrônicos                                                                          | 24.400               |
+| Google Acadêmico | Avaliação da tecnologia biomédica AND Prestação de cuidados de saúde AND Aplicações de Saúde AND Registros Médicos Eletrônicos | 234                  |
+| Periódicos CAFE  | Avaliação da tecnologia biomédica                                                                                              | 18                   |
+| Periódicos CAFE  | Prestação de cuidados de saúde                                                                                                 | 996                  |
+| Periódicos CAFE  | Registros Médicos Eletrônicos                                                                                                  | 78                   |
+| ScienceDirect    | Prestação de cuidados de saúde                                                                                                 | 114                  |
+| ScienceDirect    | Avaliação da tecnologia biomédica                                                                                              | 31                   |
+| ScienceDirect    | Registros Médicos Eletrônicos                                                                                                  | 75                   |
+## Após uso das strings ficando apenas 75 com filtro de tese ou artigo.
+- Filtro por cruzamento de dados das 3 plataformas Google Acadêmico, Periódicos CAFE, ScienceDirect os mesmos artigos estavam presente nas 3 plantaformas, ficando apenas 75 artigos
 ## Discussão
 
 O aumento da qualidade de vida da população e a queda na mortalidade nas últimas décadas foram resultados do desenvolvimento tecnológico que engloba a produção e a incorporação de tecnologias nos sistemas de saúde de naturezas preventivas, diagnósticas e terapêuticas. Por outro lado, as multiplicações de alternativas disponibilizadas no mercado para os cuidados em saúde geraram desafios gerenciais sobre quais tecnologias financiar e disponibilizar à sociedade, sobretudo em um contexto de constante aumento dos custos com o setor saúde e de limitação de recursos. É neste cenário que a Avaliação Tecnológica em Saúde (ATS) tem como organizar o projeto e melhorar pelo rascunho.
@@ -88,7 +89,7 @@ O mercado de healthtech está crescendo rapidamente, com investimentos significa
 ### Os instrumentos   para as aplicações  são  fáceis  de usar auto explicativas como exemplo.
 - Sonar fetal simples eletrônico.
 - ![[images.jpg]]![[download.jpg]]
-
+				Com software.                                             Manual
 ## Conclusão
 
 O aumento da qualidade de vida da população e a queda na mortalidade nas últimas décadas foram resultados do desenvolvimento tecnológico que engloba a produção e a incorporação de tecnologias nos sistemas de saúde de naturezas preventivas, diagnósticas e terapêuticas. Por outro lado, as multiplicações de alternativas disponibilizadas no mercado para os cuidados em saúde geraram desafios gerenciais sobre quais tecnologias financiar e disponibilizar à sociedade, sobretudo em um contexto de constante aumento dos custos com o setor saúde e de limitação de recursos. É neste cenário que a Avaliação Tecnológica em Saúde (ATS) tem como organizar o projeto e melhorar pelo rascunho.
