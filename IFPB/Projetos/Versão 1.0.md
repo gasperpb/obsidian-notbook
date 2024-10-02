@@ -123,7 +123,7 @@ O mercado de healthtech está crescendo rapidamente, com investimentos significa
 
 O aumento da qualidade de vida da população e a queda na mortalidade nas últimas décadas foram resultados do desenvolvimento tecnológico que engloba a produção e a incorporação de tecnologias nos sistemas de saúde de naturezas preventivas, diagnósticas e terapêuticas (1). Por outro lado, as multiplicações de alternativas disponibilizadas no mercado para os cuidados em saúde geraram desafios gerenciais sobre quais tecnologias financiar e disponibilizar à sociedade, sobretudo em um contexto de constante aumento dos custos com o setor saúde e de limitação de recursos (2). É neste cenário que a Avaliação Tecnológica em Saúde (ATS)
 		
- 
+
 ## Referências
 
 1. AGUIRRE RR, et al. Electronic health record implementation: a review of resources and tools. Cureus. 2019; 11(9).  

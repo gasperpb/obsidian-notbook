@@ -43,10 +43,8 @@ Para estabelecer uma busca usando os operadores lógicos **AND** e **NOT**  em d
 
 ## Metodologia
 
-1. **Revisão Bibliográfica**: Realizamos uma revisão extensa da literatura existente sobre registros médicos eletrônicos, telemedicina e dispositivos médicos conectados. Utilizamos bases de dados como  Google Acadêmico  para identificar artigos relevantes.
-
-3. **Análise de Dados**: Coletamos e analisamos dados  sobre a eficácia das soluções de software implementadas. Utilizamos ferramentas estatísticas para identificar padrões e correlações.
-4. **Validação**: Validamos nossos achados com especialistas da área para garantir a precisão e relevância dos resultados.
+1. **Análise de Dados**: Coletamos e analisamos dados  sobre a eficácia das soluções de software implementadas. Utilizamos ferramentas estatísticas para identificar padrões e correlações.
+2. **Validação**: Validamos nossos achados com especialistas da área para garantir a precisão e relevância dos resultados.
 
 ## Resultados
 
@@ -63,8 +61,21 @@ Aqui estão os resultados da busca nas diferentes bases de dados:
 | ScienceDirect    | Prestação de cuidados de saúde                                                                                                 | 114                  |
 | ScienceDirect    | Avaliação da tecnologia biomédica                                                                                              | 31                   |
 | ScienceDirect    | Registros Médicos Eletrônicos                                                                                                  | 75                   |
+|                  |                                                                                                                                |                      |
+|                  |                                                                                                                                |                      |
+|                  |                                                                                                                                |                      |
+|                  |                                                                                                                                |                      |
+|                  |                                                                                                                                |                      |
+|                  |                                                                                                                                |                      |
+|                  |                                                                                                                                |                      |
+## Diagrama de Venn
+
+![[Apresentação1.png]]
+
+
+
 ## Após uso das strings ficando apenas 75 com filtro de tese ou artigo.
-- Filtro por cruzamento de dados das 3 plataformas Google Acadêmico, Periódicos CAFE, ScienceDirect os mesmos artigos estavam presente nas 3 plantaformas, ficando apenas 75 artigos, 
+- Filtro por cruzamento de dados das 3 plataformas Google Acadêmico, Periódicos CAFE, ScienceDirect os mesmos artigos estavam presente nas 3 plataformas, ficando apenas 75 artigos, desses com o filtro de títulos apenas 36.
 ## Discussão
 
 O aumento da qualidade de vida da população e a queda na mortalidade nas últimas décadas foram resultados do desenvolvimento tecnológico que engloba a produção e a incorporação de tecnologias nos sistemas de saúde de naturezas preventivas, diagnósticas e terapêuticas. Por outro lado, as multiplicações de alternativas disponibilizadas no mercado para os cuidados em saúde geraram desafios gerenciais sobre quais tecnologias financiar e disponibilizar à sociedade, sobretudo em um contexto de constante aumento dos custos com o setor saúde e de limitação de recursos. É neste cenário que a Avaliação Tecnológica em Saúde (ATS) tem como organizar o projeto e melhorar pelo rascunho.
@@ -93,6 +104,9 @@ O mercado de healthtech está crescendo rapidamente, com investimentos significa
 ## Conclusão
 
 O aumento da qualidade de vida da população e a queda na mortalidade nas últimas décadas foram resultados do desenvolvimento tecnológico que engloba a produção e a incorporação de tecnologias nos sistemas de saúde de naturezas preventivas, diagnósticas e terapêuticas. Por outro lado, as multiplicações de alternativas disponibilizadas no mercado para os cuidados em saúde geraram desafios gerenciais sobre quais tecnologias financiar e disponibilizar à sociedade, sobretudo em um contexto de constante aumento dos custos com o setor saúde e de limitação de recursos. É neste cenário que a Avaliação Tecnológica em Saúde (ATS) tem como organizar o projeto e melhorar pelo rascunho.
+
+### Tecnologias usadas.
+Latex, obsdian, Microsoft World e navegador chrome.
 
 ## Referências
 
@@ -149,4 +163,3 @@ O aumento da qualidade de vida da população e a queda na mortalidade nas últi
 26. ZHANG A e LIN X. Towards Secure and Privacy-Preserving Data Sharing in e-Health Systems via Consortium Blockchain. Journal of Medical Systems. 2018;42(8).  
   
 27. ZHANG G, et al. Blockchain-based privacy preserving e-health system for healthcare data in cloud. Computer Networks. 2021 Nov;10858
-28.
