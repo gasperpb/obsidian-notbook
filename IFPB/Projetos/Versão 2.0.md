@@ -75,7 +75,11 @@ Aqui estão os resultados da busca nas diferentes bases de dados:
 
 
 ## Após uso das strings ficando apenas 75 com filtro de tese ou artigo.
+<<<<<<< HEAD
 - Filtro por cruzamento de dados das 3 plataformas Google Acadêmico, Periódicos CAFE, ScienceDirect os mesmos artigos estavam presente nas 3 plataformas, ficando apenas 75 artigos, desses com o filtro de títulos apenas 36.
+=======
+- Filtro por cruzamento de dados das 3 plataformas Google Acadêmico, Periódicos CAFE, ScienceDirect os mesmos artigos estavam presente nas 3 plantaformas, ficando apenas 75 artigos, 
+>>>>>>> e7a02d3d28e7e7b0a3854f1c3427d2fdc4dd1466
 ## Discussão
 
 O aumento da qualidade de vida da população e a queda na mortalidade nas últimas décadas foram resultados do desenvolvimento tecnológico que engloba a produção e a incorporação de tecnologias nos sistemas de saúde de naturezas preventivas, diagnósticas e terapêuticas. Por outro lado, as multiplicações de alternativas disponibilizadas no mercado para os cuidados em saúde geraram desafios gerenciais sobre quais tecnologias financiar e disponibilizar à sociedade, sobretudo em um contexto de constante aumento dos custos com o setor saúde e de limitação de recursos. É neste cenário que a Avaliação Tecnológica em Saúde (ATS) tem como organizar o projeto e melhorar pelo rascunho.
