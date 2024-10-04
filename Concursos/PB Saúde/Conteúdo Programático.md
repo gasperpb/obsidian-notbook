@@ -4,9 +4,9 @@
 
 **MÉDIO- Fonologia:**
 - [x] 1. conceito
-- [ ] 2. encontros vocálicos
-- [ ] 3. dígrafos
-- [ ] 4. [[ortoépia]]
+- [x] 2. [[encontros vocálicos]]
+- [x] 3. [[dígrafos]]
+- [x] 4. [[ortoépia]]
 - [ ] 5. divisão silábica
 - [ ] 6. prosódia-acentuação e ortografia
 
