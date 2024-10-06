@@ -21,7 +21,7 @@
 
 **Morfologia:**
 - [ ] 7. estrutura e formação das palavras
-- [x] 8. classes de palavras
+- [x] 8. [[classes de palavras]]
 
 **Sintaxe:**
 - [ ] 9. termos da oração
