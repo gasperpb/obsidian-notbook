@@ -17,7 +17,6 @@
 - [x] 4. [[ortoépia]]
 - [x] 5. divisão silábica
 - [x] 6. prosódia-acentuação e ortografia
->>>>>>> 490ccf9c7dafab315c7237f4f993c25027d381b9
 
 **Morfologia:**
 - [ ] 7. estrutura e formação das palavras
