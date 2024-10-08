@@ -29,9 +29,7 @@ Como é feliz a nação cujo Deus é o Senhor, cujo povo ele escolheu para lhe p
 
 [Jó 5:17](https://portaldabiblia.com.br/biblia/jo/5/17/)
 
-Salomão buscou a felicidade.
-
-
+## Salomão buscou a felicidade. 
 
 O rei Salomão entregue às cogitações de seu coração, numa conversa consigo mesmo, disse: “Vamos! Eu te provarei com a alegria; goza, pois, a felicidade; mas também isso era vaidade” (Ec 2.1). Salomão foi o homem mais rico de sua geração. Sua fama era notória. Seu poder era colossal. Seu reino era esplêndido. Mesmo cercado de tanta pompa e luxo, mesmo habitando no pináculo do sucesso, mesmo sendo o rei mais conhecido e famoso de sua geração, perdeu-se nos labirintos de sua própria alma. Enfastiado com o glamour do mundo, Salomão procurou a felicidade em fontes onde ela não estava presente.
 
@@ -48,13 +46,13 @@ No final de sua vida, Salomão chegou à conclusão de que só o temor de Deus d
 
 
 
-A verdadeira felicidade vem somente através do nosso relacionamento com Deus. Quando decidimos obedecê-lo, somos presenteados com felicidade e alegria, mesmo em momentos difíceis.
+#### **A verdadeira felicidade vem somente através do nosso relacionamento com Deus. Quando decidimos obedecê-lo, somos presenteados com felicidade e alegria, mesmo em momentos difíceis.**
 
 Com isso, aprendemos de que nossa felicidade está em Deus e não nas circunstâncias que enfrentamos.
 
 
 
-Vaidade das vaidades, diz o Eclesiastes, vaidade das vaidades! Tudo é vaidade.
+### Vaidade das vaidades, diz o Eclesiastes, vaidade das vaidades! Tudo é vaidade.
 
 3 - Que proveito tira o homem de todo o trabalho com que se afadiga debaixo do sol?
 
