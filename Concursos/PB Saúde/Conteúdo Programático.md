@@ -19,7 +19,7 @@
 - [x] 6. prosódia-acentuação e ortografia
 
 **Morfologia:**
-- [ ] 7. estrutura e formação das palavras
+- [x] 7. estrutura e formação das palavras
 - [x] 8. [[classes de palavras]]
 
 **Sintaxe:**
