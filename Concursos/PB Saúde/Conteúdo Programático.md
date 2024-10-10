@@ -22,7 +22,7 @@
 - [x] 7. estrutura e formação das palavras
 - [x] 8. [[classes de palavras]]
 
-**Sintaxe:**
+**[[Sintaxe]]:**
 - [ ] 9. termos da oração
 - [ ] 10. período composto
 - [ ] 11. conceito e classificação das orações
