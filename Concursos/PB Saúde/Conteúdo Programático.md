@@ -17,13 +17,12 @@
 - [x] 4. [[ortoépia]]
 - [x] 5. divisão silábica
 - [x] 6. prosódia-acentuação e ortografia
->>>>>>> 490ccf9c7dafab315c7237f4f993c25027d381b9
 
 **Morfologia:**
-- [ ] 7. estrutura e formação das palavras
+- [x] 7. estrutura e formação das palavras
 - [x] 8. [[classes de palavras]]
 
-**Sintaxe:**
+**[[Sintaxe]]:**
 - [ ] 9. termos da oração
 - [ ] 10. período composto
 - [ ] 11. conceito e classificação das orações
