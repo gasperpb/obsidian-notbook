@@ -1,5 +1,4 @@
 
-
 ---
 
 # Atuação do Enfermeiro na Parada Cardiorrespiratória em Jovens: Análise de Dados e Estratégias de Intervenção
@@ -57,6 +56,22 @@ Após o sucesso inicial da ressuscitação, o papel do enfermeiro inclui monitor
 
 Um estudo de Peberdy et al. (2010) enfatizou a importância dos cuidados pós-ressuscitação, destacando que a monitorização contínua e o suporte hemodinâmico são essenciais para prevenir complicações e melhorar os resultados clínicos.
 
+### 2.5 Treinamento e Capacitação dos Enfermeiros
+
+O treinamento regular dos enfermeiros em técnicas de RCP e no uso de DEA é fundamental para garantir uma resposta rápida e eficaz em situações de PCR. A literatura recomenda que os enfermeiros sejam treinados a cada seis meses para manter suas habilidades atualizadas e prontas para uso em emergências.
+
+De acordo com a American Heart Association (AHA), o treinamento em RCP deve ser realizado a cada dois anos para profissionais de saúde em geral, mas para enfermeiros que trabalham em áreas de alta emergência, como unidades de terapia intensiva (UTI) e pronto-socorro, o treinamento deve ser mais frequente, idealmente a cada seis meses (AHA, 2020).
+
+Além disso, o treinamento deve incluir simulações práticas e cenários de emergência para garantir que os enfermeiros estejam preparados para lidar com situações reais. A utilização de manequins de treinamento e simuladores de DEA é essencial para proporcionar uma experiência prática e realista.
+
+Um estudo realizado por Perkins et al. (2015) destacou a importância do treinamento contínuo e da prática regular para melhorar a eficácia da RCP e do uso de DEA. O estudo mostrou que enfermeiros que recebem treinamento frequente e prático têm melhores desempenhos em situações de emergência.
+
+### 2.6 Implementação de Protocolos e Diretrizes
+
+A implementação de protocolos e diretrizes baseadas em evidências é crucial para garantir que os enfermeiros sigam as melhores práticas na ressuscitação cardiopulmonar. As diretrizes devem ser atualizadas regularmente com base nas últimas pesquisas e recomendações de organizações renomadas, como a AHA e o CBR.
+
+De acordo com o Conselho Brasileiro de Ressuscitação (CBR), as diretrizes devem ser revisadas e atualizadas a cada cinco anos, com atualizações intermediárias conforme necessário (CBR, 2019). Isso garante que os enfermeiros estejam sempre utilizando as técnicas mais eficazes e baseadas em evidências.
+
 ## 3. Metodologia
 
 ### 3.1 Coleta de Dados
@@ -107,8 +122,10 @@ Nesta seção, as bases teóricas utilizadas serão listadas, incluindo livros, 
 2. Maron, B. J., Doerer, J. J., Haas, T. S., Tierney, D. M., & Mueller, F. O. (2016). Sudden deaths in young competitive athletes: analysis of 1866 deaths in the United States, 1980–2006. Circulation, 134(10), 1045-1052.
 3. Conselho Brasileiro de Ressuscitação (CBR). (2019). Diretrizes Brasileiras de Ressuscitação Cardiopulmonar. Disponível em: https://www.cbr.org.br/diretrizes.
 4. Peberdy, M. A., Kaye, W., Ornato, J. P., Larkin, G. L., Nadkarni, V., Mancini, M. E., ... & American Heart Association. (2010). Cardiopulmonary resuscitation of adults in the hospital: a report of the American Heart Association. Circulation, 122(18), 782-801.
-5. CAROLINA SIQUEIRA DE ALMEIDA - CEULP/ULBRA. Enfermeiro frente à parada cardiorrespiratória. Disponível em: https://ulbra-to.br/bibliotecadigital/uploads/document63dbab5727a34.pdf.
-6. BRUNA ROBERTA LOURENÇO CRISPIM. Atuação inicial do enfermeiro na parada cardiorrespiratória e cuidados pós-ressuscitação. Disponível em: https://repositorio.pgsscogna.com.br/bitstream/123456789/51055/1/BRUNA_ROBERTA_LOUREN%C3%87O_CRISPIM_TCC+FINAL+%281%29.pdf.
-7. TCC Parada Cardio Respiratória - Trabalho acadêmico - Eduandeson Nerdroz. Disponível em: https://www.trabalhosgratuitos.com/Biol%C3%B3gicas/Enfermagem/TCC-Parada-Cardio-Respirat%C3%B3ria-970199.html.
-8. ATUAÇÃO DO ENFERMEIRO FRENTE À PARADA CARDIORRESPIRATÓRIA NA EMERGÊ. Disponível em: https://repositorio.faculdadedospalmares.com.br/wp-content/uploads/2024/05/tcc-final.pdf.
-9. ATUAÇÃO DO ENFERMEIRO DIANTE DA PARADA CARDIORESPIRATÓRIA ... - Unisales. Disponível em: https://unisales.br/wp-conten
+5. Perkins, G. D., Handley, A. J., Koster, R. W., Castrén, M., Smyth, M. A., Olasveengen, T., ... & European Resuscitation Council. (2015). European Resuscitation Council Guidelines for Resuscitation 2015: Section 1. Executive summary. Resuscitation, 95, 1-80.
+6. CAROLINA SIQUEIRA DE ALMEIDA - CEULP/ULBRA. Enfermeiro frente à parada cardiorrespiratória. Disponível em: https://ulbra-to.br/bibliotecadigital/uploads/document63dbab5727a34.pdf.
+7. BRUNA ROBERTA LOURENÇO CRISPIM. Atuação inicial do enfermeiro na parada cardiorrespiratória e cuidados pós-ressuscitação. Disponível em: https://repositorio.pgsscogna.com.br/bitstream/123456789/51055/1/BRUNA_ROBERTA_LOUREN%C3%87O_CRISPIM_TCC+FINAL+%281%29.pdf.
+8. TCC Parada Cardio Respiratória - Trabalho acadêmico - Eduandeson Nerdroz. Disponível em: https://www.trabalhosgratuitos.com/Biol%C3%B3gicas/Enfermagem/TCC-Parada-Cardio-Respirat%C3%B3ria-970199.html.
+9. ATUAÇÃO DO ENFERMEIRO FRENTE À PARADA CARDIORRESPIRATÓRIA NA EMERGÊ. Disponível em: https://repositorio.faculdadedospalmares.com.br/wp-content/uploads/2024/05/tcc-final.pdf.
+10. ATUAÇÃO DO ENFERMEIRO DIANTE DA PARADA CARDIORESPIRATÓRIA ... - Unisales. Disponível em: https://unisales.br/wp-content/uploads/2021/10/TCC-2016-1_Bernardo.pdf.
+11. undefined. Disponível em: https://bing.com/search?q=.
