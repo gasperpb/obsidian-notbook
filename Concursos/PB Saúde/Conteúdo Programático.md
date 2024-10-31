@@ -53,7 +53,7 @@
 ### TÉCNICO DE ENFERMAGEM
 [^1]: Esta é a nota de rodapé semana 3- 31/10 a 03/11/24 até as 23:00 acabar esse tópico.
 **Introdução à Saúde Pública**
-- [ ] 27. Definições e conceitos básicos em saúde pública.
+- [x] 27. Definições e conceitos básicos em saúde pública.
 - [x] 28. História da saúde pública.
 - [ ] 29. Papel dos técnicos de saúde pública na comunidade.
 
