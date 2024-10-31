@@ -5,11 +5,11 @@
 **MÉDIO- Fonologia:**
 <<<<<<< HEAD
 - [x] 1. conceito   
-- [ ]  2. encontros vocálicos
-- [ ] 3. dígrafos
-- [ ] 4. ortoépia
-- [ ] 5. divisão silábica
-6. prosódia-acentuação e ortografia
+- [x]  2. encontros vocálicos
+- [x] 3. dígrafos
+- [x] 4. ortoépia
+- [x] 5. divisão silábica
+- [x] 6. prosódia-acentuação e ortografia
 =======
 - [x] 1. conceito
 - [x] 2. [[encontros vocálicos]]
@@ -26,8 +26,8 @@
 - [ ] 9. termos da oração
 - [ ] 10. período composto
 - [ ] 11. conceito e classificação das orações
-- [ ] 12. concordância verbal e nominal
-- [ ] 13. regência verbal e nominal
+- [x] 12. concordância verbal e nominal
+- [x] 13. regência verbal e nominal
 - [ ] 14. crase e pontuação
 
 **Semântica:**
@@ -36,13 +36,13 @@
 
 ### LEGISLAÇÃO DO SUS
 
-- [ ] 17. Evolução histórica da organização do sistema de saúde no Brasil e a construção do Sistema Único de Saúde (SUS) – princípios, diretrizes e arcabouço legal.
-- [ ] 18. Constituição Federal 1988, Título VIII - artigos de 194 a 200.
-- [ ] 19. Lei Orgânica da Saúde - Lei n º 8.080/1990.
-- [ ] 20. Lei nº 8.142/1990 e Decreto Presidencial nº 7.508, de 28 de junho de 2011.
-- [ ] 21. Portaria nº 2.436, de 21 de setembro de 2017 - Aprova a Política Nacional de Atenção Básica, estabelecendo a revisão de diretrizes para a organização da Atenção Básica, no âmbito do Sistema Único de Saúde (SUS).
-- [ ] 22. Portaria GM/MS nº 1.604, de 18 de outubro de 2023 Institui a Política Nacional de Atenção Especializada em Saúde (PNAES), no âmbito do Sistema Único de Saúde.
-- [ ] 23. Resolução CNS nº 553, de 9 de agosto de 2017, que dispõe sobre a carta dos direitos e deveres da pessoa usuária da saúde.
+- [x] 17. Evolução histórica da organização do sistema de saúde no Brasil e a construção do Sistema Único de Saúde (SUS) – princípios, diretrizes e arcabouço legal.
+- [x] 18. Constituição Federal 1988, Título VIII - artigos de 194 a 200.
+- [x] 19. Lei Orgânica da Saúde - Lei n º 8.080/1990.
+- [x] 20. Lei nº 8.142/1990 e Decreto Presidencial nº 7.508, de 28 de junho de 2011.
+- [x] 21. Portaria nº 2.436, de 21 de setembro de 2017 - Aprova a Política Nacional de Atenção Básica, estabelecendo a revisão de diretrizes para a organização da Atenção Básica, no âmbito do Sistema Único de Saúde (SUS).
+- [x] 22. Portaria GM/MS nº 1.604, de 18 de outubro de 2023 Institui a Política Nacional de Atenção Especializada em Saúde (PNAES), no âmbito do Sistema Único de Saúde.
+- [x] 23. Resolução CNS nº 553, de 9 de agosto de 2017, que dispõe sobre a carta dos direitos e deveres da pessoa usuária da saúde.
 
 ### LEGISLAÇÃO DA PB SAÚDE
 
@@ -51,7 +51,7 @@
 - [x] 26. Estatuto da PB Saúde - Aprovado na 1º Reunião Ordinária do Conselho de Administração, realizada no dia 13 de novembro de 2020.
 
 ### TÉCNICO DE ENFERMAGEM
-
+[^1]: Esta é a nota de rodapé semana 3- 31/10 a 03/11/24 até as 23:00 acabar esse tópico.
 **Introdução à Saúde Pública**
 - [ ] 27. Definições e conceitos básicos em saúde pública.
 - [ ] 28. História da saúde pública.
