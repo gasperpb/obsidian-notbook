@@ -47,8 +47,8 @@
 ### LEGISLAÇÃO DA PB SAÚDE
 
 - [x] 24. [[Estatuto da PB Saúde - Decreto Nº 40.096 de 28 de fevereiro de 2020.]]
-- [ ] 25. Código de ética e conduta dos servidores e empregados públicos civis do poder executivo do estado Paraíba - Decreto Nº 44.504 de 05 de dezembro de 2023.
-- [ ] 26. Estatuto da PB Saúde - Aprovado na 1º Reunião Ordinária do Conselho de Administração, realizada no dia 13 de novembro de 2020.
+- [x] 25. Código de ética e conduta dos servidores e empregados públicos civis do poder executivo do estado Paraíba - Decreto Nº 44.504 de 05 de dezembro de 2023.
+- [x] 26. Estatuto da PB Saúde - Aprovado na 1º Reunião Ordinária do Conselho de Administração, realizada no dia 13 de novembro de 2020.
 
 ### TÉCNICO DE ENFERMAGEM
 
