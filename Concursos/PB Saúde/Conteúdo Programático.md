@@ -5,10 +5,10 @@
 **MÉDIO- Fonologia:**
 <<<<<<< HEAD
 - [x] 1. conceito   
-2. encontros vocálicos
-3. dígrafos
-4. ortoépia
-5. divisão silábica
+- [ ]  2. encontros vocálicos
+- [ ] 3. dígrafos
+- [ ] 4. ortoépia
+- [ ] 5. divisão silábica
 6. prosódia-acentuação e ortografia
 =======
 - [x] 1. conceito
