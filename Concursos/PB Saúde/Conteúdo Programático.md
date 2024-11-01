@@ -55,7 +55,10 @@
 **Introdução à Saúde Pública**
 - [x] 27. Definições e conceitos básicos em saúde pública.
 - [x] 28. História da saúde pública.
-- [ ] 29. Papel dos técnicos de saúde pública na comunidade.
+- [x] 29. Papel dos técnicos de saúde pública na comunidade.
+
+
+>  01/11/24 estudar hoje esses três temas   
 
 **Epidemiologia**
 - [ ] 30. Princípios de epidemiologia e estatísticas de saúde.
