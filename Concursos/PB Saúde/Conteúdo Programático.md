@@ -66,15 +66,15 @@
 >  01/11/24 estudar hoje esses três temas   
 
 **Epidemiologia**
-- [x] 30. Princípios de epidemiologia e estatísticas de saúde. ![[revisao-de-epidemiologia-questoes-mapas-mentais.pdf]]
+- [x] 30. Princípios de epidemiologia e estatísticas de saúde. ![[revisao-de-epidemiologia-questoes-mapas-mentais.pdf ]]
 >>>>>>> origin/main
-- [ ] 31. Surto de doenças e investigação epidemiológica.
-- [ ] 32. Vigilância de doenças.
+- [x] 31. Surto de doenças e investigação epidemiológica.
+- [x] 32. Vigilância de doenças.
 
 **Políticas de Saúde Pública**
 - [ ] 33. Estrutura e organização do sistema de saúde pública local.
-- [ ] 34. Legislação de saúde pública: Portarias e Leis do SUS.
-- [ ] 35. Políticas Públicas de Saúde e Pacto pela Saúde.
+- [x] 34. Legislação de saúde pública: Portarias e Leis do SUS.
+- [x] 35. Políticas Públicas de Saúde e Pacto pela Saúde.
 
 **Promoção da Saúde e Prevenção de Doenças**
 - [ ] 36. Estratégias para promover estilos de vida saudáveis.
@@ -97,9 +97,9 @@
 - [ ] 47. Cuidados de saúde infantil.
 
 **Doenças Transmissíveis**
-- [ ] 48. Controle de doenças infecciosas.
-- [ ] 49. Vacinação e imunização.
-- [ ] 50. Prevenção e controle de surtos.
+- [x] 48. Controle de doenças infecciosas.
+- [x] 49. Vacinação e imunização.
+- [x] 50. Prevenção e controle de surtos.
 
 **Emergências em Saúde Pública**
 - [ ] 51. Planejamento e resposta a desastres.
@@ -107,7 +107,7 @@
 - [ ] 53. Coordenação de equipes de resposta.
 
 **Fundamentos de Enfermagem**
-- [ ] 54. sinais vitais
+- [x] 54. sinais vitais
 - [ ] 55. higiene e conforto
 - [ ] 56. aspiração de secreções
 - [ ] 57. mecânica corporal
@@ -116,7 +116,7 @@
 - [ ] 60. oxigenioterapia
 - [ ] 61. alimentação
 - [ ] 62. hidratação
-- [ ] 63. curativo
+- [x] 63. curativo
 - [ ] 64. sondagens
 - [ ] 65. drenagens
 - [ ] 66. cuidados com as eliminações
