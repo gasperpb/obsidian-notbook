@@ -18,3 +18,6 @@ PrincÌpios do SUS Conforme nossa descriÁ„o sobre o sentido de princÌpios, i
 
 ![[Pasted image 20240330084340.png]]
 ![[Pasted image 20240330085619.png]]
+
+
+![[Pasted image 20241107133436.png]]
