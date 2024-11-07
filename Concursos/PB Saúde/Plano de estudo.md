@@ -37,23 +37,23 @@ ____________________________________________________________________________
 
 ____________________________________________________________________________
 
-|   |   |   |   |
-|---|---|---|---|
-|**LÍNGUA PORTUGUESA**|   |**ESTUDO**|**REVISÃO**|
-|**AULAS NOS LIVROS DE PORTUGUÊS PARA CONCURSOS E/OU CURSO COMPLETO**|   |   ||
-|Acentuação Gráfica|Cap. 2 / Vol. 1|__/__/__|__/__/__|
-|Ortografia Oficial|Cap. 3 / Vol. 1|__/__/__|__/__/__|
-|Semântica|Cap. 4 / Vol. 1|__/__/__|__/__/__|
-|Classes Gramaticais: Substantivo; Adjetivo; Artigo; Numeral;<br><br>Pronome; Verbo; Vozes Verbais; Advérbio; Preposição; Conjunção; Interjeição|Cap. 6-16 /      Vol. 1|__/__/__|__/__/__|
-|Reconhecimento das Classes Gramaticais|Cap. 17 / Vol. 1|__/__/__|__/__/__|
-|Emprego dos Sinais De Pontuação|Cap. 6-7 / Vol. 2|__/__/__|__/__/__|
-|Concordância Verbal|Cap. 8 / Vol. 2|__/__/__|__/__/__|
-|Concordância Nominal|Cap. 9 / Vol. 2|__/__/__|__/__/__|
-|Regência Verbo-Nominal|Cap. 10 / Vol. 2|__/__/__|__/__/__|
-|Ocorrência da Crase|Cap. 11 / Vol. 2|__/__/__|__/__/__|
-|Colocação Pronominal|Cap. 12 / Vol. 2|__/__/__|__/__/__|
-|Figuras de Linguagem|Cap. 16 / Vol. 2|__/__/__|__/__/__|
-|Compreensão e Interpretação de Texto|Cap. 21 / Vol. 2|__/__/__|__/__/__|
+|                                                                                                                                                 |                         |            |             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ---------- | ----------- |
+| **LÍNGUA PORTUGUESA**                                                                                                                           |                         | **ESTUDO** | **REVISÃO** |
+| **AULAS NOS LIVROS DE PORTUGUÊS PARA CONCURSOS E/OU CURSO COMPLETO**                                                                            |                         |            |             |
+| Acentuação Gráfica                                                                                                                              | Cap. 2 / Vol. 1         | __/__/__   | __/__/__    |
+| Ortografia Oficial                                                                                                                              | Cap. 3 / Vol. 1         | __/__/__   | __/__/__    |
+| Semântica                                                                                                                                       | Cap. 4 / Vol. 1         | __/__/__   | __/__/__    |
+| Classes Gramaticais: Substantivo; Adjetivo; Artigo; Numeral;<br><br>Pronome; Verbo; Vozes Verbais; Advérbio; Preposição; Conjunção; Interjeição | Cap. 6-16 /      Vol. 1 | __/__/__   | __/__/__    |
+| Reconhecimento das Classes Gramaticais                                                                                                          | Cap. 17 / Vol. 1        | __/__/__   | __/__/__    |
+| Emprego dos Sinais De Pontuação                                                                                                                 | Cap. 6-7 / Vol. 2       | __/__/__   | __/__/__    |
+| Concordância Verbal                                                                                                                             | Cap. 8 / Vol. 2         | __/__/__   | __/__/__    |
+| Concordância Nominal                                                                                                                            | Cap. 9 / Vol. 2         | __/__/__   | __/__/__    |
+| Regência Verbo-Nominal                                                                                                                          | Cap. 10 / Vol. 2        | __/__/__   | __/__/__    |
+| Ocorrência da Crase                                                                                                                             | Cap. 11 / Vol. 2        | __/__/__   | __/__/__    |
+| Colocação Pronominal                                                                                                                            | Cap. 12 / Vol. 2        | __/__/__   | __/__/__    |
+| Figuras de Linguagem                                                                                                                            | Cap. 16 / Vol. 2        | __/__/__   | __/__/__    |
+| Compreensão e Interpretação de Texto                                                                                                            | Cap. 21 / Vol. 2        | __/__/__   | __/__/__    |
 
 # Anotações
 
@@ -136,43 +136,43 @@ Importante! As disciplinas de Legislação do SUS destacadas (*) na tabela acima
 
 # Cargo: Técnico em Enfermagem
 
-|   |   |   |   |
-|---|---|---|---|
-|**CONHECIMENTOS ESPECÍFICOS DE ENFERMAGEM**|   |**ESTUDO**|**REVISÃO**|
-|**AULAS NO TRATADO DE ENFERMAGEM E/OU CURSO COMPLETO**|   |   |   |
-|Saúde da Criança e do Adolescente|Cap. 1|___/__/___|___/__/___|
-|Imunização|Cap. 2|___/__/___|___/__/___|
-|Saúde da Mulher|Cap. 3|___/__/___|___/__/___|
-|Hipertensão Arterial|Cap. 4|___/__/___|___/__/___|
-|Diabetes Mellitus|Cap. 5|___/__/___|___/__/___|
-|Lista de Doenças de Notificação Compulsória|Cap. 7|___/__/___|___/__/___|
-|Dengue, Zika, Chikungunya e Febre do Oropouche|Cap. 8|___/__/___|___/__/___|
-|Tuberculose (TB)|Cap. 9|___/__/___|___/__/___|
-|Hanseníase|Cap. 10|___/__/___|___/__/___|
-|Raiva Humana|Cap. 11|___/__/___|___/__/___|
-|IST’s e HIV|Cap. 12|___/__/___|___/__/___|
-|Outras Doenças Infecciosas e Transmissíveis|Cap. 13|___/__/___|___/__/___|
-|Fundamentos de Enfermagem|Cap. 14|___/__/___|___/__/___|
-|Administração e Cálculo De Medicamentos|Cap. 15|___/__/___|___/__/___|
-|Farmacologia|Cap. 16|___/__/___|___/__/___|
-|Enfermagem Cirúrgica|Cap. 17|___/__/___|___/__/___|
-|Doenças Renais|Cap. 18|___/__/___|___/__/___|
-|Doenças Respiratórias|Cap. 19|___/__/___|___/__/___|
-|Doenças Cardiovasculares|Cap. 20|___/__/___|___/__/___|
-|Oncologia|Cap. 21|___/__/___|___/__/___|
-|Suporte Básico e Avançado de Vida|Cap. 22|___/__/___|___/__/___|
-|Urgências Clínicas|Cap. 23|___/__/___|___/__/___|
-|Urgências Traumáticas e Outros Temas|Cap. 24|___/__/___|___/__/___|
-|Acidentes com Animais Peçonhentos|Cap. 25|___/__/___|___/__/___|
-|Unidade de tratamento Intensivo (UTI)|Cap. 26|___/__/___|___/__/___|
-|Feridas e Curativos|Cap. 29|___/__/___|___/__/___|
-|Administração em Enfermagem|Cap. 35|___/__/___|___/__/___|
-|Biossegurança e Infecção Relacionada à Assistência À Saúde (IRAS)|Cap. 37|___/__/___|___/__/___|
-|CME e Resíduos Sólidos em Saúde|Cap. 38|___/__/___|___/__/___|
-|**AULAS NO CURSO COMPLETO ONLINE**|   |||
-|Clínica Médica/Saúde do Adulto – outros temas|   |___/__/___|___/__/___|
-|Anatomia, Fisiologia, Histologia, Parasitologia e Microbiologia|   |___/__/___|___/__/___|
-|Exames Complementares dos Sistemas Orgânicos|   |___/__/___|___/__/___|
+|                                                                   |         |            |             |
+| ----------------------------------------------------------------- | ------- | ---------- | ----------- |
+| **CONHECIMENTOS ESPECÍFICOS DE ENFERMAGEM**                       |         | **ESTUDO** | **REVISÃO** |
+| **AULAS NO TRATADO DE ENFERMAGEM E/OU CURSO COMPLETO**            |         |            |             |
+| Saúde da Criança e do Adolescente                                 | Cap. 1  | ___/__/___ | ___/__/___  |
+| Imunização                                                        | Cap. 2  | ___/__/___ | ___/__/___  |
+| Saúde da Mulher                                                   | Cap. 3  | ___/__/___ | ___/__/___  |
+| Hipertensão Arterial                                              | Cap. 4  | ___/__/___ | ___/__/___  |
+| Diabetes Mellitus                                                 | Cap. 5  | ___/__/___ | ___/__/___  |
+| Lista de Doenças de Notificação Compulsória                       | Cap. 7  | ___/__/___ | ___/__/___  |
+| Dengue, Zika, Chikungunya e Febre do Oropouche                    | Cap. 8  | ___/__/___ | ___/__/___  |
+| Tuberculose (TB)                                                  | Cap. 9  | ___/__/___ | ___/__/___  |
+| Hanseníase                                                        | Cap. 10 | ___/__/___ | ___/__/___  |
+| Raiva Humana                                                      | Cap. 11 | ___/__/___ | ___/__/___  |
+| IST’s e HIV                                                       | Cap. 12 | ___/__/___ | ___/__/___  |
+| Outras Doenças Infecciosas e Transmissíveis                       | Cap. 13 | ___/__/___ | ___/__/___  |
+| Fundamentos de Enfermagem                                         | Cap. 14 | ___/__/___ | ___/__/___  |
+| Administração e Cálculo De Medicamentos                           | Cap. 15 | ___/__/___ | ___/__/___  |
+| Farmacologia                                                      | Cap. 16 | ___/__/___ | ___/__/___  |
+| Enfermagem Cirúrgica                                              | Cap. 17 | ___/__/___ | ___/__/___  |
+| Doenças Renais                                                    | Cap. 18 | ___/__/___ | ___/__/___  |
+| Doenças Respiratórias                                             | Cap. 19 | ___/__/___ | ___/__/___  |
+| Doenças Cardiovasculares                                          | Cap. 20 | ___/__/___ | ___/__/___  |
+| Oncologia                                                         | Cap. 21 | ___/__/___ | ___/__/___  |
+| Suporte Básico e Avançado de Vida                                 | Cap. 22 | ___/__/___ | ___/__/___  |
+| Urgências Clínicas                                                | Cap. 23 | ___/__/___ | ___/__/___  |
+| Urgências Traumáticas e Outros Temas                              | Cap. 24 | ___/__/___ | ___/__/___  |
+| Acidentes com Animais Peçonhentos                                 | Cap. 25 | ___/__/___ | ___/__/___  |
+| Unidade de tratamento Intensivo (UTI)                             | Cap. 26 | ___/__/___ | ___/__/___  |
+| Feridas e Curativos                                               | Cap. 29 | ___/__/___ | ___/__/___  |
+| Administração em Enfermagem                                       | Cap. 35 | ___/__/___ | ___/__/___  |
+| Biossegurança e Infecção Relacionada à Assistência À Saúde (IRAS) | Cap. 37 | ___/__/___ | ___/__/___  |
+| CME e Resíduos Sólidos em Saúde                                   | Cap. 38 | ___/__/___ | ___/__/___  |
+| **AULAS NO CURSO COMPLETO ONLINE**                                |         |            |             |
+| Clínica Médica/Saúde do Adulto – outros temas                     |         | ___/__/___ | ___/__/___  |
+| Anatomia, Fisiologia, Histologia, Parasitologia e Microbiologia   |         | ___/__/___ | ___/__/___  |
+| Exames Complementares dos Sistemas Orgânicos                      |         | ___/__/___ | ___/__/___  |
 
 ## Anotações
 
