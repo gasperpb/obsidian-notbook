@@ -144,17 +144,17 @@
 - [ ] 84. doenças sexualmente transmissíveis e aids
 
 **Cuidados de Enfermagem em Pediatria**
-- [ ] 85. avaliação do crescimento e desenvolvimento da criança e adolescente
-- [ ] 86. doenças prevalentes na infância (afecções respiratórias, diarréia, desidratação, desnutrição, verminose)
+- [x] 85. avaliação do crescimento e desenvolvimento da criança e adolescente
+- [x] 86. doenças prevalentes na infância (afecções respiratórias, diarréia, desidratação, desnutrição, verminose)
 - [ ] 87. distúrbios neurológicos
 - [ ] 88. cardíacos
 - [ ] 89. gástricos
 - [ ] 90. nutricionais
 - [ ] 91. esquelético
 - [ ] 92. endócrino
-- [ ] 93. doenças infectocontagiosas
+- [x] 93. doenças infectocontagiosas
 - [ ] 94. terapia intensiva
-- [ ] 95. urgências e emergências (parada cárdio respiratória, mordeduras, fraturas, choque elétrico, queimaduras, envenenamento, convulsão, afogamento, hemorragias, coma)
+- [x] 95. urgências e emergências (parada cárdio respiratória, mordeduras, fraturas, choque elétrico, queimaduras, envenenamento, convulsão, afogamento, hemorragias, coma)
 - [ ] 96. pré, trans e pós-operatório
 
 **Imunização**
