@@ -110,7 +110,7 @@
 - [x] 54. sinais vitais
 - [x] 55. higiene e conforto                                  * [[Higiene e conforte]] 
 - [x] 56. aspiração de secreções                         * [[Aspiração e Secreções]] 
-- [ ] 57. mecânica corporal
+- [x] 57. mecânica corporal
 - [ ] 58. terapêutica medicamentosa
 - [ ] 59. pressão venosa central
 - [ ] 60. oxigenioterapia
