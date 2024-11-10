@@ -102,7 +102,7 @@
 - [x] 50. Prevenção e controle de surtos.
 
 **Emergências em Saúde Pública**
-- [ ] 51. Planejamento e resposta a desastres.
+- [ ] 51. [[Planejamento e resposta a desastres.]]
 - [ ] 52. Preparação para epidemias e pandemias.
 - [ ] 53. Coordenação de equipes de resposta.
 
