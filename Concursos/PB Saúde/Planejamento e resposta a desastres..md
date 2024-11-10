@@ -1,5 +1,6 @@
 ## O planejamento e a resposta a desastres
 
+
 ==Envolve a atuação de profissionais de enfermagem em várias etapas, desde a prevenção até o atendimento às vítimas==.
 
 | Papel da enfermagem  | Função                                                                                                     |
