@@ -108,8 +108,8 @@
 
 **Fundamentos de Enfermagem**
 - [x] 54. sinais vitais
-- [ ] 55. higiene e conforto                                  * [[Higiene e conforte]] 
-- [ ] 56. aspiração de secreções                         * [[Aspiração e Secreções]] 
+- [x] 55. higiene e conforto                                  * [[Higiene e conforte]] 
+- [x] 56. aspiração de secreções                         * [[Aspiração e Secreções]] 
 - [ ] 57. mecânica corporal
 - [ ] 58. terapêutica medicamentosa
 - [ ] 59. pressão venosa central
