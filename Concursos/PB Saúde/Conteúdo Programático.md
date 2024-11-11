@@ -83,7 +83,7 @@
 
 **Atendimento Primário à Saúde**
 - [ ] 39. Modelo de atenção básica à saúde.
-- [ ] 40. Trabalho em equipe multidisciplinar.
+- [x] 40. Trabalho em equipe multidisciplinar.
 - [ ] 41. Acesso equitativo aos serviços de saúde.
 
 **Administração de Serviços de Saúde Pública**
@@ -91,7 +91,7 @@
 - [ ] 43. Gerenciamento de recursos humanos e orçamentários.
 - [ ] 44. Avaliação de programas de saúde.
 
-**Saúde Materno-Infantil**
+**Saúde Materno Infantil**
 - [ ] 45. Cuidados pré-natais e neonatais.
 - [ ] 46. Planejamento familiar e saúde reprodutiva.
 - [ ] 47. Cuidados de saúde infantil.
