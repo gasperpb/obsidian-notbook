@@ -111,11 +111,11 @@
 - [x] 55. higiene e conforto                                  * [[Higiene e conforte]] 
 - [x] 56. aspiração de secreções                         * [[Aspiração e Secreções]] 
 - [x] 57. mecânica corporal
-- [ ] 58. terapêutica medicamentosa
+- [x] 58. terapêutica medicamentosa
 - [ ] 59. pressão venosa central
 - [ ] 60. oxigenioterapia
-- [ ] 61. alimentação
-- [ ] 62. hidratação
+- [x] 61. alimentação
+- [x] 62. hidratação
 - [x] 63. curativo
 - [x] 64. sondagens
 - [ ] 65. drenagens
