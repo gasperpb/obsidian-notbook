@@ -117,10 +117,10 @@
 - [ ] 61. alimentação
 - [ ] 62. hidratação
 - [x] 63. curativo
-- [ ] 64. sondagens
+- [x] 64. sondagens
 - [ ] 65. drenagens
 - [ ] 66. cuidados com as eliminações
-- [ ] 67. balanço hidroeletrolítico
+- [x] 67. balanço hidroeletrolítico
 - [ ] 68. balanço hídrico
 - [ ] 69. bandagem
 - [ ] 70. glicosúria
