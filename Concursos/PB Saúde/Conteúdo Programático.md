@@ -113,7 +113,7 @@
 - [x] 57. mecânica corporal
 - [x] 58. terapêutica medicamentosa
 - [x] 59. pressão venosa central
-- [ ] 60. oxigenioterapia
+- [x] 60. oxigenioterapia
 - [x] 61. alimentação
 - [x] 62. hidratação
 - [x] 63. curativo
