@@ -118,10 +118,10 @@
 - [x] 62. hidratação
 - [x] 63. curativo
 - [x] 64. sondagens
-- [ ] 65. drenagens
+- [x] 65. drenagens
 - [ ] 66. cuidados com as eliminações
 - [x] 67. balanço hidroeletrolítico
-- [ ] 68. balanço hídrico
+- [x] 68. balanço hídrico
 - [ ] 69. bandagem
 - [ ] 70. glicosúria
 - [ ] 71. glicemia capilar
