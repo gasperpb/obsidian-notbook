@@ -119,7 +119,7 @@
 - [x] 63. curativo
 - [x] 64. sondagens
 - [x] 65. drenagens
-- [x] 66. cuidados com as eliminações
+- [ ] 66. cuidados com as eliminações
 - [x] 67. balanço hidroeletrolítico
 - [x] 68. balanço hídrico
 - [ ] 69. bandagem
