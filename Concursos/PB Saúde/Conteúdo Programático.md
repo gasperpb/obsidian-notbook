@@ -168,18 +168,18 @@
 - [ ] 102. preparo e manuseio de materiais para procedimentos
 
 **Medidas de Conforto**
-- [ ] 103. Preparo do leito
-- [ ] 104. Movimentação
-- [ ] 105. Transporte e higiene do paciente
+- [x] 103. Preparo do leito
+- [x] 104. Movimentação
+- [x] 105. Transporte e higiene do paciente
 
 **Coleta de Exames**
 - [ ] 106. Coleta de Exames
 
 **Administração de Medicamentos**
-- [ ] 107. dosagens e aplicação
-- [ ] 108. hidratação
-- [ ] 109. curativos
-- [ ] 110. sondagens
+- [x] 107. dosagens e aplicação
+- [x] 108. hidratação
+- [x] 109. curativos
+- [x] 110. sondagens
 
 ## Conhecimentos Básicos Inerentes às Atividades do Emprego
 - [ ] 111. Conhecimentos Básicos Inerentes às Atividades do Emprego
