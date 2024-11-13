@@ -122,7 +122,7 @@
 - [x] 66. cuidados com as eliminações
 - [x] 67. balanço hidroeletrolítico
 - [x] 68. balanço hídrico
-- [ ] 69. bandagem
+- [x] 69. bandagem
 - [ ] 70. glicosúria
 - [ ] 71. glicemia capilar
 - [ ] 72. coleta de material para exames laboratoriais
