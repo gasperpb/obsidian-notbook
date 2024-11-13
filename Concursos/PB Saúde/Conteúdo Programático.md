@@ -125,7 +125,7 @@
 - [x] 69. bandagem
 - [x] 70. glicosúria
 - [x] 71. glicemia capilar
-- [ ] 72. coleta de material para exames laboratoriais
+- [x] 72. coleta de material para exames laboratoriais
 
 **Cuidados de Enfermagem ao Adulto**
 - [ ] 73. afecções do sistema nervoso central
