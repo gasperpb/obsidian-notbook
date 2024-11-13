@@ -128,7 +128,7 @@
 - [x] 72. coleta de material para exames laboratoriais
 
 **Cuidados de Enfermagem ao Adulto**
-- [ ] 73. afecções do sistema nervoso central
+- [x] 73. afecções do sistema nervoso central
 - [ ] 74. respiratório
 - [ ] 75. gastrointestinal
 - [ ] 76. cardiovascular
