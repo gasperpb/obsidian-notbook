@@ -123,8 +123,8 @@
 - [x] 67. balanço hidroeletrolítico
 - [x] 68. balanço hídrico
 - [x] 69. bandagem
-- [ ] 70. glicosúria
-- [ ] 71. glicemia capilar
+- [x] 70. glicosúria
+- [x] 71. glicemia capilar
 - [ ] 72. coleta de material para exames laboratoriais
 
 **Cuidados de Enfermagem ao Adulto**
