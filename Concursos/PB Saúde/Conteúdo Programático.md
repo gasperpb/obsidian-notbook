@@ -82,19 +82,19 @@
 - [ ] 38. Educação em saúde comunitária.
 
 **Atendimento Primário à Saúde**
-- [ ] 39. Modelo de atenção básica à saúde.
+- [x] 39. Modelo de atenção básica à saúde.
 - [x] 40. Trabalho em equipe multidisciplinar.
-- [ ] 41. Acesso equitativo aos serviços de saúde.
+- [x] 41. Acesso equitativo aos serviços de saúde.
 
 **Administração de Serviços de Saúde Pública**
-- [ ] 42. Gestão de unidades de saúde pública.
+- [x] 42. Gestão de unidades de saúde pública.
 - [ ] 43. Gerenciamento de recursos humanos e orçamentários.
 - [ ] 44. Avaliação de programas de saúde.
 
 **Saúde Materno Infantil**
-- [ ] 45. Cuidados pré-natais e neonatais.
-- [ ] 46. Planejamento familiar e saúde reprodutiva.
-- [ ] 47. Cuidados de saúde infantil.
+- [x] 45. Cuidados pré-natais e neonatais.
+- [x] 46. Planejamento familiar e saúde reprodutiva.
+- [x] 47. Cuidados de saúde infantil.
 
 **Doenças Transmissíveis**
 - [x] 48. Controle de doenças infecciosas.
@@ -103,7 +103,7 @@
 
 **Emergências em Saúde Pública**
 - [ ] 51. [[Planejamento e resposta a desastres.]]
-- [ ] 52. Preparação para epidemias e pandemias.
+- [x] 52. Preparação para epidemias e pandemias.
 - [ ] 53. Coordenação de equipes de resposta.
 
 **Fundamentos de Enfermagem**
@@ -129,8 +129,8 @@
 
 **Cuidados de Enfermagem ao Adulto**
 - [x] 73. afecções do sistema nervoso central
-- [ ] 74. respiratório
-- [ ] 75. gastrointestinal
+- [x] 74. respiratório
+- [x] 75. gastrointestinal
 - [ ] 76. cardiovascular
 - [ ] 77. endócrino
 - [ ] 78. esquelético
