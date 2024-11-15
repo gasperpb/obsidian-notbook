@@ -131,7 +131,7 @@
 - [x] 73. afecções do sistema nervoso central
 - [x] 74. respiratório
 - [x] 75. gastrointestinal
-- [ ] 76. cardiovascular
+- [x] 76. cardiovascular
 - [ ] 77. endócrino
 - [ ] 78. esquelético
 - [ ] 79. pré, trans e pós-operatório
@@ -158,7 +158,7 @@
 - [ ] 96. pré, trans e pós-operatório
 
 **Imunização**
-- [ ] 97. esquema básico recomendado pelo Ministério da Saúde
+- [x] 97. esquema básico recomendado pelo Ministério da Saúde
 - [ ] 98. doenças preveníveis por imunização
 - [ ] 99. notificação compulsória
 
