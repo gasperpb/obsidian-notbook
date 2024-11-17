@@ -104,7 +104,7 @@
 **Emergências em Saúde Pública**
 - [x] 51. [[Planejamento e resposta a desastres.]]
 - [x] 52. Preparação para epidemias e pandemias.
-- [ ] 53. Coordenação de equipes de resposta.
+- [x] 53. Coordenação de equipes de resposta.
 
 **Fundamentos de Enfermagem**
 - [x] 54. sinais vitais
