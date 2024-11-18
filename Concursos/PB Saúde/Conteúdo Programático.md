@@ -66,7 +66,7 @@
 >  01/11/24 estudar hoje esses três temas   
 
 **Epidemiologia**
-- [x] 30. Princípios de epidemiologia e estatísticas de saúde. ![[revisao-de-epidemiologia-questoes-mapas-mentais.pdf ]]
+- [x] 30. Princípios de epidemiologia e estatísticas de saúde. 
 >>>>>>> origin/main
 - [x] 31. Surto de doenças e investigação epidemiológica.
 - [x] 32. Vigilância de doenças.
