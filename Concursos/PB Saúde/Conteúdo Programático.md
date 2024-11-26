@@ -132,10 +132,10 @@
 - [x] 74. respiratório
 - [x] 75. gastrointestinal
 - [x] 76. cardiovascular
-- [ ] 77. endócrino
-- [ ] 78. esquelético
+- [x] 77. endócrino
+- [x] 78. esquelético
 - [ ] 79. pré, trans e pós-operatório
-- [ ] 80. urgências e emergências
+- [x] 80. urgências e emergências
 - [ ] 81. terapia intensiva
 - [x] 82. hemodiálise
 
