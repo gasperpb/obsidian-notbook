@@ -137,7 +137,7 @@
 - [ ] 79. pré, trans e pós-operatório
 - [ ] 80. urgências e emergências
 - [ ] 81. terapia intensiva
-- [ ] 82. hemodiálise
+- [x] 82. hemodiálise
 
 **Cuidados de Enfermagem à Saúde da Mulher**
 - [ ] 83. prevenção do câncer colo-uterino e mama
@@ -182,4 +182,4 @@
 - [x] 110. sondagens
 
 ## Conhecimentos Básicos Inerentes às Atividades do Emprego
-- [ ] 111. Conhecimentos Básicos Inerentes às Atividades do Emprego
+- [x] 111. Conhecimentos Básicos Inerentes às Atividades do Emprego
