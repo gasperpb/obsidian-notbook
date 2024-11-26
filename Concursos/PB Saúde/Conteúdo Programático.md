@@ -28,11 +28,11 @@
 - [ ] 11. conceito e classificação das orações
 - [x] 12. concordância verbal e nominal
 - [x] 13. regência verbal e nominal
-- [ ] 14. crase e pontuação
+- [x] 14. crase e pontuação
 
 **Semântica:**
-- [ ] 15. a significação das palavras no texto
-- [ ] 16. Interpretação de texto
+- [x] 15. a significação das palavras no texto
+- [x] 16. Interpretação de texto
 
 ### LEGISLAÇÃO DO SUS
 
@@ -72,7 +72,7 @@
 - [x] 32. Vigilância de doenças.
 
 **Políticas de Saúde Pública**
-- [ ] 33. Estrutura e organização do sistema de saúde pública local.
+- [x] 33. Estrutura e organização do sistema de saúde pública local.
 - [x] 34. Legislação de saúde pública: Portarias e Leis do SUS.
 - [x] 35. Políticas Públicas de Saúde e Pacto pela Saúde.
 
