@@ -134,7 +134,7 @@
 - [x] 76. cardiovascular
 - [x] 77. endócrino
 - [x] 78. esquelético
-- [ ] 79. pré, trans e pós-operatório
+- [x] 79. pré, trans e pós-operatório
 - [x] 80. urgências e emergências
 - [ ] 81. terapia intensiva
 - [x] 82. hemodiálise
