@@ -136,7 +136,7 @@
 - [x] 78. esquelético
 - [x] 79. pré, trans e pós-operatório
 - [x] 80. urgências e emergências
-- [ ] 81. terapia intensiva
+- [x] 81. terapia intensiva[[Terapia Intesiva]]
 - [x] 82. hemodiálise
 
 **Cuidados de Enfermagem à Saúde da Mulher**
