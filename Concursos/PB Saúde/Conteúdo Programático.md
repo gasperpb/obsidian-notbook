@@ -44,7 +44,7 @@
 - [x] 22. Portaria GM/MS nº 1.604, de 18 de outubro de 2023 Institui a Política Nacional de Atenção Especializada em Saúde (PNAES), no âmbito do Sistema Único de Saúde.
 - [x] 23. Resolução CNS nº 553, de 9 de agosto de 2017, que dispõe sobre a carta dos direitos e deveres da pessoa usuária da saúde.
 
-### LEGISLAÇÃO DA PB SAÚDE
+### LEGISLAÇÃO DA PB SAÚDE [[Resumo Saúde ]]
 
 - [x] 24. [[Estatuto da PB Saúde - Decreto Nº 40.096 de 28 de fevereiro de 2020.]]
 - [x] 25. Código de ética e conduta dos servidores e empregados públicos civis do poder executivo do estado Paraíba - Decreto Nº 44.504 de 05 de dezembro de 2023.
