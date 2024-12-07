@@ -1,4 +1,4 @@
-## Resumo dos Melhores Tópicos do Regimento Interno da PB Saúde - Fundação Paraibana de Gestão em Saúde
+Resumo dos Melhores Tópicos do Regimento Interno da PB Saúde - Fundação Paraibana de Gestão em Saúde
 
 Este resumo de quatro páginas aborda os principais tópicos do Regimento Interno da PB Saúde, aprovado em 13 de novembro de 2020, com foco na estrutura organizacional, atribuições dos órgãos e cargos de gestão, e procedimentos administrativos da Fundação.
 
