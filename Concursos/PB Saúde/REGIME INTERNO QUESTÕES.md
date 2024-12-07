@@ -1,4 +1,4 @@
-Claro, aqui estão as perguntas e respostas organizadas em sequência numérica crescente:
+
 
 ### Pergunta 1
 
