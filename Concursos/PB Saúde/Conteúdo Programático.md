@@ -147,7 +147,7 @@
 - [x] 85. avaliação do crescimento e desenvolvimento da criança e adolescente
 - [x] 86. doenças prevalentes na infância (afecções respiratórias, diarréia, desidratação, desnutrição, verminose)
 - [ ] 87. distúrbios neurológicos
-- [ ] 88. cardíacos
+- [x] 88. cardíacos
 - [ ] 89. gástricos
 - [ ] 90. nutricionais
 - [ ] 91. esquelético
@@ -155,15 +155,15 @@
 - [x] 93. doenças infectocontagiosas
 - [ ] 94. terapia intensiva
 - [x] 95. urgências e emergências (parada cárdio respiratória, mordeduras, fraturas, choque elétrico, queimaduras, envenenamento, convulsão, afogamento, hemorragias, coma)
-- [ ] 96. pré, trans e pós-operatório
+- [x] 96. pré, trans e pós-operatório
 
 **Imunização**
 - [x] 97. esquema básico recomendado pelo Ministério da Saúde
-- [ ] 98. doenças preveníveis por imunização
+- [x] 98. doenças preveníveis por imunização
 - [ ] 99. notificação compulsória
 
 **Cuidados de Enfermagem na Oncologia**
-- [ ] 100. princípios gerais
+- [x] 100. princípios gerais
 - [ ] 101. cuidados básicos na utilização das principais armas terapêuticas (cirurgia, radioterapia, quimioterapia e hormonioterapia)
 - [ ] 102. preparo e manuseio de materiais para procedimentos
 
