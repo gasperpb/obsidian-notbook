@@ -49,3 +49,6 @@ Deus se agrada de um coração humilde e arrependido. Em Salmos 51:17, Davi decl
 - Em Marcos 8:35-36, a Bíblia diz: "Pois quem quiser salvar a sua vida a perderá, mas quem perder a própria vida por minha causa e pelo evangelho a salvará. Pois que adianta ao homem ganhar o mundo inteiro e perder a sua vida?". 
 - Em Mateus 16:25-26, a Bíblia diz: "Porquanto, quem quiser salvar a sua vida perdê-la-á; e quem perder a vida por minha causa achá-la-á. Pois que aproveitará o homem se ganhar o mundo inteiro e perder a sua alma? Ou que dará o homem em troca da sua alma?". 
 - Em Tiago 5:20, a Bíblia diz: "saiba que aquele que fizer converter do erro do seu caminho um pecador salvará da morte uma alma e cobrirá uma multidão de pecados"
+
+
+Romanos 15-4
