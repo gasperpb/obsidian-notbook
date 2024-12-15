@@ -2,7 +2,7 @@
 
 1. **Fundamentos de Enfermagem**:
     
-    - Aferição de sinais vitais
+    - Aferição de sinais vitais -[ ]
         
     - Colheita de exames
         
@@ -344,3 +344,9 @@
     - Instrução Normativa Conjunta SEGES-SGPRT/MGI nº 24/2023, que estabelece orientações a serem observadas pelos órgãos e entidades integrantes do Sistema de Pessoal Civil da Administração Federal - SIPEC e do Sistema de Organização e Inovação Institucional do Governo Federal - SIORG, relativas à implementação e execução do Programa de Gestão e Desempenho – PGD
         
     - Portaria nº 85 GAB/Reitoria/2023, que Institui o Programa de Gestão e Desempenho no âmbito da Universidade Federal de Campina Grande - UFCG
+
+
+
+- A banca organizadora do concurso é a própria UFCG. 
+- As provas objetivas serão realizadas no dia 2 de fevereiro de 2025, nas cidades de Campina Grande, Cajazeiras e Patos. 
+- Os locais das provas serão divulgados no dia 10 de janeiro de 2025
