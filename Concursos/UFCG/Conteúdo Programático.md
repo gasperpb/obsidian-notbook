@@ -2,7 +2,7 @@
 
 1. **Fundamentos de Enfermagem**:
     
-    - Aferição de sinais vitais -[ ]
+    - Aferição de sinais vitais  
         
     - Colheita de exames
         
