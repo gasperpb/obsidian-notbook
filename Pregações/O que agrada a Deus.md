@@ -3,25 +3,25 @@
 
 A Bíblia apresenta diversas atitudes e comportamentos que agradam a Deus. Esses princípios estão relacionados à fé, obediência, sinceridade, amor e submissão à vontade divina. Abaixo estão alguns dos principais pontos baseados em ensinamentos bíblicos:
 
----
+
 
 #### **1. Ter fé em Deus**
 
 A fé é essencial para agradar a Deus. Em Hebreus 11:6, está escrito: **"Sem fé é impossível agradar a Deus"**. Isso significa que confiar em Deus, acreditar em Suas promessas e depender Dele é fundamental para viver de forma que O agrade.
 
----
+
 
 #### **2. Obediência à Sua Palavra**
 
 A obediência é um princípio central na Bíblia. Em 1 Samuel 15:22, o profeta Samuel diz: **"Obedecer é melhor do que sacrificar"**. Isso mostra que Deus valoriza mais a submissão à Sua vontade do que rituais ou práticas externas. Obedecer às Suas instruções demonstra respeito e amor por Ele.
 
----
+
 
 #### **3. Sinceridade e honestidade**
 
 Deus se agrada de pessoas que são sinceras e honestas, sem máscaras ou falsidade. Ele conhece o coração humano e não pode ser enganado. A Bíblia ensina que devemos nos apresentar diante Dele com integridade e verdade.
 
----
+
 
 #### **4. Alegria e gratidão**
 
@@ -51,4 +51,18 @@ Deus se agrada de um coração humilde e arrependido. Em Salmos 51:17, Davi decl
 - Em Tiago 5:20, a Bíblia diz: "saiba que aquele que fizer converter do erro do seu caminho um pecador salvará da morte uma alma e cobrirá uma multidão de pecados"
 
 
+
 Romanos 15-4
+"Porque todas as coisas que dantes foram escritas, para nosso ensino foram escritas, para que pela paciência e consolação das escrituras tenhamos esperança"
+
+
+Romanos 5-3
+
+3 E não somente isto, mas também nos gloriamos nas tribulações; sabendo que a tribulação produz a paciência,
+
+4 E a paciência a experiência, e a experiência a esperança.
+
+5 E a esperança não traz confusão, porquanto o amor de Deus está derramado em nossos corações pelo Espírito Santo que nos foi dado.
+
+
+
