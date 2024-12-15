@@ -350,3 +350,7 @@
 - A banca organizadora do concurso é a própria UFCG. 
 - As provas objetivas serão realizadas no dia 2 de fevereiro de 2025, nas cidades de Campina Grande, Cajazeiras e Patos. 
 - Os locais das provas serão divulgados no dia 10 de janeiro de 2025
+#### - 10 questões de língua portuguesa;
+#### - 05 questões de legislação;
+#### - 05 questões de informática básica;
+#### - 30 questões de conhecimentos específicos.
