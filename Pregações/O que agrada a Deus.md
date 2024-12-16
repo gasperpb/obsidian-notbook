@@ -47,6 +47,9 @@ A Bíblia ensina que viver para agradar a Deus significa conformar nossa vida à
 Jesus resumiu os mandamentos em dois grandes princípios: amar a Deus acima de todas as coisas e amar ao próximo como a si mesmo (Mateus 22:37-39). Esse amor é uma expressão prática de nossa fé e agrada profundamente a Deus.
 Os efeitos da generosidade (A generosidade promove o bem do próximo e a glória de Deus).
 
+
+
+
 ---
 
 #### **7. Humildade e arrependimento**
