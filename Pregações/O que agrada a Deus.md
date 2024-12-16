@@ -64,5 +64,7 @@ Romanos 5-3
 
 5 E a esperança não traz confusão, porquanto o amor de Deus está derramado em nossos corações pelo Espírito Santo que nos foi dado.
 
+Romanos 1-16
 
-
+Oremos irmão pedindo o espírito santo nessas palavras, é o que te pedimos em nome de Deus, amém.
+Quando Paulo escreveu essa carta
