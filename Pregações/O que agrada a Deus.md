@@ -76,3 +76,4 @@ Romanos 1-16
 
 Oremos irmão pedindo o espírito santo nessas palavras, é o que te pedimos em nome de Deus, amém.
 Quando Paulo escreveu essa carta
+
