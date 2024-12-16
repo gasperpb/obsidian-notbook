@@ -2,6 +2,7 @@
 #### O que agrada a Deus segundo a Bíblia?
 
 Oremos irmão pedindo o espírito santo nessas palavras, é o que te pedimos em nome de Deus, amém.
+
 Quando Paulo escreveu essa carta
 
 do Grego parabolē, que significa literalmente "colocar de lado"
@@ -18,6 +19,7 @@ Como vai a vida financeira de vocês? Vocês têm planos para construir um patri
 
 
 #### **1. Ter fé em Deus**
+O Apóstolo Paulo ensinou que “**a fé é o firme fundamento das coisas que se esperam, e a prova das coisas que se não vêem**” ( Hebreus 11:1 ).
 
 A fé é essencial para agradar a Deus. Em Hebreus 11:6, está escrito: **"Sem fé é impossível agradar a Deus"**. Isso significa que confiar em Deus, acreditar em Suas promessas e depender Dele é fundamental para viver de forma que O agrade.
 
