@@ -1,6 +1,10 @@
 
 #### O que agrada a Deus segundo a Bíblia?
 
+Oremos irmão pedindo o espírito santo nessas palavras, é o que te pedimos em nome de Deus, amém.
+Quando Paulo escreveu essa carta
+
+
 A Bíblia apresenta diversas atitudes e comportamentos que agradam a Deus. Esses princípios estão relacionados à fé, obediência, sinceridade, amor e submissão à vontade divina. Agora irei falar sobre   alguns dos principais pontos baseados em ensinamentos bíblicos.
 
 Mas antes vou perguntar
