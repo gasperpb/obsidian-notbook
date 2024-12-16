@@ -1,8 +1,11 @@
 
 #### O que agrada a Deus segundo a Bíblia?
 
-A Bíblia apresenta diversas atitudes e comportamentos que agradam a Deus. Esses princípios estão relacionados à fé, obediência, sinceridade, amor e submissão à vontade divina. Agora irei falar sobre   alguns dos principais pontos baseados em ensinamentos bíblicos:
+A Bíblia apresenta diversas atitudes e comportamentos que agradam a Deus. Esses princípios estão relacionados à fé, obediência, sinceridade, amor e submissão à vontade divina. Agora irei falar sobre   alguns dos principais pontos baseados em ensinamentos bíblicos.
 
+Mas antes vou perguntar
+
+Como vai a vida financeira de vocês? Vocês têm planos para construir um patrimônio? Ou, quem sabe, um plano para a aposentadoria? Vocês têm feito investimentos? Eles estão rendendo bem? Ou será que vocês têm sofrido com dificuldades econômicas?
 
 
 #### **1. Ter fé em Deus**
@@ -42,6 +45,7 @@ A Bíblia ensina que viver para agradar a Deus significa conformar nossa vida à
 #### **6. Amar a Deus e ao próximo**
 
 Jesus resumiu os mandamentos em dois grandes princípios: amar a Deus acima de todas as coisas e amar ao próximo como a si mesmo (Mateus 22:37-39). Esse amor é uma expressão prática de nossa fé e agrada profundamente a Deus.
+Os efeitos da generosidade (A generosidade promove o bem do próximo e a glória de Deus).
 
 ---
 
