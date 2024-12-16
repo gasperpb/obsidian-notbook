@@ -4,6 +4,11 @@
 Oremos irmão pedindo o espírito santo nessas palavras, é o que te pedimos em nome de Deus, amém.
 Quando Paulo escreveu essa carta
 
+do Grego parabolē, que significa literalmente "colocar de lado"
+
+
+Irmãos Brownlee britanicos
+
 
 A Bíblia apresenta diversas atitudes e comportamentos que agradam a Deus. Esses princípios estão relacionados à fé, obediência, sinceridade, amor e submissão à vontade divina. Agora irei falar sobre   alguns dos principais pontos baseados em ensinamentos bíblicos.
 
