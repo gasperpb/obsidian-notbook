@@ -8,9 +8,9 @@
 
 *The path of most resistance*
 
-- [ ] 🏄🏻‍♂️ Body
-- [ ] 👻 Spirit
-- [ ] 🧠 Mind
+- [ ] Consertar o Patinete
+- [ ] Montar o notebook Dell 
+- [ ] Vender todas as peças
 
 ## 🕙 The Day
 
