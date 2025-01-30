@@ -94,7 +94,22 @@
 1. **Monitoramento Contínuo**: Verificar regularmente a qualidade do sinal e realizar ajustes conforme necessário.
     
 2. **Manutenção Preventiva**
+
+
+
+
+### Imagem das duas torres via satélite 
+![[Pasted image 20250130165012.png]]
+
+
+
+
+
+
+
 ![[Pasted image 20250130132050.png]]
+
+
 
 
 ![[Pasted image 20250130131921.png]]
