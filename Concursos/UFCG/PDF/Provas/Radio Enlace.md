@@ -99,6 +99,7 @@
 
 
 ### Imagem das duas torres via satélite 
+
 ![[Pasted image 20250130165012.png]]
 
 ## Torre de Esperança 
@@ -111,23 +112,31 @@
 ## Torre de Lagoa Seca
 
 
+## Torre de Campina Grande
+
+![[Pasted image 20250130184709.png]]
 
 
+
+
+
+## Imagem das duas torres via satélite 
 
 ![[Pasted image 20250130132050.png]]
-
 
 
 
 ![[Pasted image 20250130131921.png]]
 
 
+## Equipamentos
 
 ![[Pasted image 20250130132004.png]]
 
 
 
 
+## Esperança a Lagoa Seca
 
 ![[Pasted image 20250130130654.png]]
 
