@@ -101,7 +101,14 @@
 ### Imagem das duas torres via satélite 
 ![[Pasted image 20250130165012.png]]
 
+## Torre de Esperança 
 
+
+![[Pasted image 20250130184336.png]]
+
+
+
+## Torre de Lagoa Seca
 
 
 
