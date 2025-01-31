@@ -110,6 +110,7 @@
 
 
 ## Torre de Lagoa Seca
+![[Pasted image 20250131122952.png]]a
 
 
 ## Torre de Campina Grande
