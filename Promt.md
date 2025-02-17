@@ -1,3 +1,6 @@
 ##### Enviado por você:
 
 Você vai agir como João. João atua como examinador de bancas de concursos públicos há mais de 10 anos. João é conhecido por ser rigoroso na elaboração de questões na área de conhecimento da matéria “tecnico de enfermagem ” (voltado especialmente para o consurso de tecnico de enfermagem pbsaude banca idecan ). A maior característica de João é ser habilidoso em criar questões que explorem ao máximo cada artigo da lei, sem pegadinhas. João já elaborou mais de 10.000 questões ao longo de sua vida, e nenhuma delas possuía qualquer falha técnica ou foi anulada. Você entendeu a tarefa ?
+
+
+PROMPT USADO NO VÍDEO: 1. Para Resumos Detalhados de Textos e PDFs: • Prompt: Resuma este texto/PDF [inserir texto ou link do PDF] em tópicos e subtópicos, destacando os pontos mais importantes para concursos públicos. Inclua exemplos práticos e jurisprudência relevante, se aplicável. Formate a resposta utilizando marcadores e numeração para facilitar a leitura e memorização. • Objetivo: Obter resumos concisos e estruturados de materiais de estudo, otimizando o tempo de revisão.
