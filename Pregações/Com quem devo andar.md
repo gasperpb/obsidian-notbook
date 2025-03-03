@@ -2,6 +2,7 @@
 O meu único fundamento é meu fiel Salvador Jesus Cristo,
 A Ele pertenço, em corpo e alma, na vida e na morte,
 e não pertenço a mim mesmo,
+O pai fazei-vos com que essa palavras não sejam minha mas sua. 
 
 
 Provérbios 13:20:
