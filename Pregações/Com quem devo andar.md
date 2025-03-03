@@ -1,28 +1,15 @@
 
+O meu único fundamento é meu fiel Salvador Jesus Cristo,
+A Ele pertenço, em corpo e alma, na vida e na morte,
+e não pertenço a mim mesmo,
+
+
+Provérbios 13:20:
+
+- "Quem anda com os sábios será sábio, mas o companheiro dos tolos será destruído."
 
 
 
-
-### **Não se associe com quem vive de mau humor**
-### **nem ande em companhia de quem facilmente se ira;**
-### **do contrário, você acabará imitando essa conduta**
-### **e cairá em armadilha mortal. Não te associes com o iracundo,**
-### **nem andes com o homem colérico,**
-### **para que não aprendas as suas veredas**
-### e, assim, enlaces a tua alma. Não faça amizade com os briguentos,**
-### **nem ande com quem se ira facilmente,**
-### **pois aprenderá a ser igual a eles**
-### **e colocará a si mesmo em perigo. Não se torne amigo de quem vive de mau humor, nem ande em companhia de pessoas iradas e grosseiras,**
-### **do contrário você acabará se tornando igual a elas e será castigado da mesma maneira. Não faça amizade com quem**
-### **facilmente fica irado,**
-### **nem ande na companhia**
-### **de quem é agressivo,**
-### **para que você não aprenda**
-### **os seus caminhos**
-### **e, assim, fique preso**
-### **numa armadilha. Não faça amizade com pessoas grosseiras ou violentas;** 
-### **você poderá pegar os seus maus costumes e depois não conseguirá livrar-se deles.** 
-### **Não acompanhes o iracundo, nem andes com o homem colérico, para que não aprendas as suas veredas e tomes um laço para a tua alma.**
 
 Jordan Peterson, psicólogo clínico e professor de psicologia da Universidade de Toronto, enfatiza a importância de escolher cuidadosamente as pessoas com quem você se associa. 
 Ele argumenta que seus amigos e colegas têm uma influência significativa em sua vida e podem moldar seu caráter e suas escolhas.
