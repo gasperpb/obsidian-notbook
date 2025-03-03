@@ -34,6 +34,10 @@ Pessoas tóxicas são aquelas que o fazem sentir mal consigo mesmo, que o critic
 Escolha seus amigos com sabedoria
 Escolher seus amigos com sabedoria é uma das decisões mais importantes que você pode tomar na vida. Seus amigos podem ter um impacto profundo em seu bem-estar, em seu sucesso e em sua felicidade. Portanto, escolha amigos que o incentivem a ser a melhor versão de si mesmo, que compartilhem seus valores e que o desafiem a crescer.
 
+
+Esperar em Deus sempre, sempre.
+
+
 - **Salmos 27:14**: "Espere no Senhor. Seja forte! Coragem! Espere no Senhor." Este versículo encoraja a confiar em Deus e a ter paciência durante os momentos difíceis.
 - **Isaías 40:31**: "Mas aqueles que esperam no Senhor renovam as suas forças. Voam alto como águias; correm e não ficam exaustos, andam e não se cansam." Esta passagem promete que aqueles que esperam em Deus receberão força e resistência.  
     
