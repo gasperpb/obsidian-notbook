@@ -24,6 +24,7 @@ A ansiedade, muitas vezes, é fruto de uma fé pequena. Não é que não tenhamo
 
 Como Filipenses 4:6-7 nos exorta, devemos levar nossas preocupações a Deus em oração, com ações de graças, e a paz que excede todo entendimento guardará nossos corações e mentes em Cristo Jesus.
 
+
 Além disso, é importante buscar o Reino de Deus em primeiro lugar. Quando colocamos o Senhor como prioridade em nossas vidas, todas as outras coisas nos são acrescentadas. Isso não significa que não enfrentaremos dificuldades, mas que podemos descansar na certeza de que Deus está no controle.
 
 Por fim, lembremos que a ansiedade é como uma pré-ocupação com o que ainda não aconteceu. Jesus nos chama a viver um dia de cada vez, confiando que o amanhã trará seus próprios cuidados. Planejar é sábio, mas viver em constante preocupação é esquecer que temos um Pai que nos ama e cuida de nós.
