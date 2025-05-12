@@ -1,6 +1,77 @@
 ## **O QUE É PRECISO PARA TER A SALVAÇÃO, SEGUNDO A BÍBLIA?**
 
-a
+
+## 📖 **Texto Base: Gálatas 3:1-15 (tradução Almeida Corrigida Fiel)**
+
+**Versículos-chave:**
+
+> **1** Ó insensatos gálatas! Quem vos fascinou para não obedecerdes à verdade, a vós, perante os olhos de quem Jesus Cristo foi evidenciado como crucificado?
+
+> **2** Só quisera saber isto de vós: recebestes o Espírito pelas obras da lei ou pela pregação da fé?
+
+> **6** Assim como Abraão creu em Deus, e isso lhe foi imputado como justiça.
+
+> **13** Cristo nos resgatou da maldição da lei, fazendo-se maldição por nós; porque está escrito: Maldito todo aquele que for pendurado no madeiro;
+
+---
+
+## ✍️ **Explicação Contextual e Teológica**
+
+### 🗺️ **Contexto Histórico**
+
+A carta foi escrita por Paulo aos cristãos da Galácia (região da atual Turquia). Muitos desses crentes estavam sendo influenciados por judaizantes — pessoas que ensinavam que os gentios (não judeus) precisavam seguir a _Torá_ (Lei de Moisés) para serem salvos, especialmente a circuncisão.
+
+---
+
+## 🔍 Verso a Verso (Gálatas 3:1-15)
+
+### **Verso 1 – Repreensão direta**
+
+> “Ó insensatos gálatas!”
+
+A palavra grega aqui para "insensatos" é **ἀνόητοι (anoētoi)** – sem entendimento, sem sabedoria. Paulo está perplexo com a facilidade com que eles se deixaram enganar, como se estivessem **"enfeitiçados"** (_ἐβάσκανεν_ – encantados), desviando-se do evangelho puro.
+
+### **Versos 2-5 – O argumento da experiência**
+
+Paulo pergunta: **"Vocês receberam o Espírito Santo pelas obras da Lei ou pela fé?"**  
+O Espírito foi dado como resposta à fé, não ao cumprimento da Lei mosaica. Ele apela à **experiência espiritual deles**, como testemunho da verdade do evangelho.
+
+### **Versos 6-9 – O exemplo de Abraão**
+
+Aqui Paulo cita **Gênesis 15:6**:
+
+> _"E creu ele no Senhor, e foi-lhe imputado isto por justiça."_ (em hebraico: וְהֶאֱמִן בַּיהוָה וַיַּחְשְׁבֶהָ לּוֹ צְדָקָה)
+
+Paulo mostra que **Abraão foi justificado pela fé, antes da Lei existir!** Isso significa que os verdadeiros filhos de Abraão são os que têm **fé**, não apenas os descendentes físicos.
+
+### **Versos 10-12 – A maldição da Lei**
+
+Ele lembra que quem tenta se justificar pelas obras da Lei está sob maldição, pois:
+
+> _"Maldito todo aquele que não permanecer em todas as coisas..."_ (citando Deuteronômio 27:26).
+
+Ninguém consegue obedecer perfeitamente à Lei — portanto, **todos estão condenados** se confiarem nela como meio de salvação.
+
+### **Verso 13 – A redenção em Cristo**
+
+> _"Cristo nos resgatou da maldição da Lei..."_
+
+Paulo cita **Deuteronômio 21:23**: _"Maldito todo aquele que for pendurado no madeiro"_.  
+Yeshua (Jesus) tomou sobre si a maldição que era nossa, substituindo-nos e nos reconciliando com Deus.
+
+### **Verso 14 – A bênção de Abraão aos gentios**
+
+A morte de Cristo **abre a bênção de Abraão** a todos os povos — cumprindo o que Deus disse em Gênesis 12:3:
+
+> _"Em ti serão benditas todas as famílias da terra."_
+
+### **Verso 15 – O argumento do testamento**
+
+Paulo fala de um testamento humano: uma vez confirmado, **ninguém o anula ou acrescenta**.  
+Isso prepara o terreno para os próximos versículos, onde ele mostrará que a promessa a Abraão (Cristo) veio **antes** da Lei e **não foi anulada por ela**.
+
+
+---
 
 ### 🕊️ 1. **Crer em Jesus Cristo como Senhor e Salvador**
 
@@ -75,7 +146,6 @@ a
 
 ---
 
-
 ### 🎓 PALAVRAS DO PRÓPRIO JESUS:
 
 > **"Eu sou o caminho, a verdade e a vida. Ninguém vem ao Pai, senão por mim."** (João 14:6)
@@ -90,71 +160,3 @@ Se desejar, posso te guiar por um estudo bíblico completo sobre o plano da salv
 
 
 
-## 📖 **Texto Base: Gálatas 3:1-15 (tradução Almeida Corrigida Fiel)**
-
-**Versículos-chave:**
-
-> **1** Ó insensatos gálatas! Quem vos fascinou para não obedecerdes à verdade, a vós, perante os olhos de quem Jesus Cristo foi evidenciado como crucificado?
-
-> **2** Só quisera saber isto de vós: recebestes o Espírito pelas obras da lei ou pela pregação da fé?
-
-> **6** Assim como Abraão creu em Deus, e isso lhe foi imputado como justiça.
-
-> **13** Cristo nos resgatou da maldição da lei, fazendo-se maldição por nós; porque está escrito: Maldito todo aquele que for pendurado no madeiro;
-
----
-
-## ✍️ **Explicação Contextual e Teológica**
-
-### 🗺️ **Contexto Histórico**
-
-A carta foi escrita por Paulo aos cristãos da Galácia (região da atual Turquia). Muitos desses crentes estavam sendo influenciados por judaizantes — pessoas que ensinavam que os gentios (não judeus) precisavam seguir a _Torá_ (Lei de Moisés) para serem salvos, especialmente a circuncisão.
-
----
-
-## 🔍 Verso a Verso (Gálatas 3:1-15)
-
-### **Verso 1 – Repreensão direta**
-
-> “Ó insensatos gálatas!”
-
-A palavra grega aqui para "insensatos" é **ἀνόητοι (anoētoi)** – sem entendimento, sem sabedoria. Paulo está perplexo com a facilidade com que eles se deixaram enganar, como se estivessem **"enfeitiçados"** (_ἐβάσκανεν_ – encantados), desviando-se do evangelho puro.
-
-### **Versos 2-5 – O argumento da experiência**
-
-Paulo pergunta: **"Vocês receberam o Espírito Santo pelas obras da Lei ou pela fé?"**  
-O Espírito foi dado como resposta à fé, não ao cumprimento da Lei mosaica. Ele apela à **experiência espiritual deles**, como testemunho da verdade do evangelho.
-
-### **Versos 6-9 – O exemplo de Abraão**
-
-Aqui Paulo cita **Gênesis 15:6**:
-
-> _"E creu ele no Senhor, e foi-lhe imputado isto por justiça."_ (em hebraico: וְהֶאֱמִן בַּיהוָה וַיַּחְשְׁבֶהָ לּוֹ צְדָקָה)
-
-Paulo mostra que **Abraão foi justificado pela fé, antes da Lei existir!** Isso significa que os verdadeiros filhos de Abraão são os que têm **fé**, não apenas os descendentes físicos.
-
-### **Versos 10-12 – A maldição da Lei**
-
-Ele lembra que quem tenta se justificar pelas obras da Lei está sob maldição, pois:
-
-> _"Maldito todo aquele que não permanecer em todas as coisas..."_ (citando Deuteronômio 27:26).
-
-Ninguém consegue obedecer perfeitamente à Lei — portanto, **todos estão condenados** se confiarem nela como meio de salvação.
-
-### **Verso 13 – A redenção em Cristo**
-
-> _"Cristo nos resgatou da maldição da Lei..."_
-
-Paulo cita **Deuteronômio 21:23**: _"Maldito todo aquele que for pendurado no madeiro"_.  
-Yeshua (Jesus) tomou sobre si a maldição que era nossa, substituindo-nos e nos reconciliando com Deus.
-
-### **Verso 14 – A bênção de Abraão aos gentios**
-
-A morte de Cristo **abre a bênção de Abraão** a todos os povos — cumprindo o que Deus disse em Gênesis 12:3:
-
-> _"Em ti serão benditas todas as famílias da terra."_
-
-### **Verso 15 – O argumento do testamento**
-
-Paulo fala de um testamento humano: uma vez confirmado, **ninguém o anula ou acrescenta**.  
-Isso prepara o terreno para os próximos versículos, onde ele mostrará que a promessa a Abraão (Cristo) veio **antes** da Lei e **não foi anulada por ela**.
