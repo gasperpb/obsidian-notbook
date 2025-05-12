@@ -75,6 +75,7 @@ a
 
 ---
 
+
 ### 🎓 PALAVRAS DO PRÓPRIO JESUS:
 
 > **"Eu sou o caminho, a verdade e a vida. Ninguém vem ao Pai, senão por mim."** (João 14:6)
