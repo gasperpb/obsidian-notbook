@@ -156,7 +156,7 @@ Isso prepara o terreno para os próximos versículos, onde ele mostrará que a p
 
 Meu querido irmão ou irmã, não adie essa decisão!  
 **Estude as Escrituras, entregue-se a Cristo, arrependa-se, seja batizado e viva uma vida de fé verdadeira!**  
-Se desejar, posso te guiar por um estudo bíblico completo sobre o plano da salvação, com os textos originais e aplicações práticas.
+
 
 
 
